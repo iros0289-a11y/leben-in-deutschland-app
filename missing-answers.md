@@ -1,0 +1,387 @@
+# Fehlende richtige Antworten
+
+Diese Fragen haben keinen eindeutig belegten `correctAnswerId`.
+Die Aufgaben wurden aus dem BAMF-PDF extrahiert; korrekte Antworten wurden nur gesetzt, wenn ein maschinenlesbarer Abgleich eindeutig war.
+
+- `general-027` (Teil I - Aufgabe 27, PDF-Seite 11): Deutschland ist …
+- `general-054` (Teil I - Aufgabe 54, PDF-Seite 20): Was ist keine staatliche Gewalt in Deutschland?
+- `general-055` (Teil I - Aufgabe 55, PDF-Seite 21): Was zeigt dieses Bild? © Deutscher Bundestag/Achim Melde
+- `general-056` (Teil I - Aufgabe 56, PDF-Seite 21): Welches Amt gehört in Deutschland zur Gemeindeverwaltung?
+- `general-057` (Teil I - Aufgabe 57, PDF-Seite 22): Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?
+- `general-058` (Teil I - Aufgabe 58, PDF-Seite 22): Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?
+- `general-059` (Teil I - Aufgabe 59, PDF-Seite 22): Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?
+- `general-060` (Teil I - Aufgabe 60, PDF-Seite 23): In Deutschland gehören der Bundestag und der Bundesrat zur …
+- `general-061` (Teil I - Aufgabe 61, PDF-Seite 23): Was bedeutet "Volkssouveränität"?
+- `general-062` (Teil I - Aufgabe 62, PDF-Seite 23): Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …
+- `general-063` (Teil I - Aufgabe 63, PDF-Seite 24): Was gehört in Deutschland nicht zur Exekutive?
+- `general-064` (Teil I - Aufgabe 64, PDF-Seite 24): Die Bundesrepublik Deutschland ist heute gegliedert in …
+- `general-065` (Teil I - Aufgabe 65, PDF-Seite 24): Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …
+- `general-067` (Teil I - Aufgabe 67, PDF-Seite 25): Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?
+- `general-068` (Teil I - Aufgabe 68, PDF-Seite 25): Warum kontrolliert der Staat in Deutschland das Schulwesen?
+- `general-069` (Teil I - Aufgabe 69, PDF-Seite 26): Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?
+- `general-070` (Teil I - Aufgabe 70, PDF-Seite 27): Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten? © Bundesregierung/Engelbert Reineke
+- `general-071` (Teil I - Aufgabe 71, PDF-Seite 28): Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …
+- `general-072` (Teil I - Aufgabe 72, PDF-Seite 28): Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?
+- `general-073` (Teil I - Aufgabe 73, PDF-Seite 28): Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …
+- `general-075` (Teil I - Aufgabe 75, PDF-Seite 29): Wie heißt Deutschlands heutiges Staatsoberhaupt?
+- `general-076` (Teil I - Aufgabe 76, PDF-Seite 29): Was bedeutet die Abkürzung CDU in Deutschland?
+- `general-077` (Teil I - Aufgabe 77, PDF-Seite 30): Was ist die Bundeswehr?
+- `general-078` (Teil I - Aufgabe 78, PDF-Seite 30): Was bedeutet die Abkürzung SPD?
+- `general-079` (Teil I - Aufgabe 79, PDF-Seite 30): Was bedeutet die Abkürzung FDP in Deutschland?
+- `general-080` (Teil I - Aufgabe 80, PDF-Seite 31): Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?
+- `general-081` (Teil I - Aufgabe 81, PDF-Seite 31): Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?
+- `general-082` (Teil I - Aufgabe 82, PDF-Seite 31): Wer leitet das deutsche Bundeskabinett?
+- `general-083` (Teil I - Aufgabe 83, PDF-Seite 32): Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?
+- `general-084` (Teil I - Aufgabe 84, PDF-Seite 32): Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …
+- `general-085` (Teil I - Aufgabe 85, PDF-Seite 32): Wer bildet den deutschen Bundesrat?
+- `general-086` (Teil I - Aufgabe 86, PDF-Seite 33): Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?
+- `general-087` (Teil I - Aufgabe 87, PDF-Seite 33): Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?
+- `general-088` (Teil I - Aufgabe 88, PDF-Seite 33): Die parlamentarische Opposition im Deutschen Bundestag …
+- `general-089` (Teil I - Aufgabe 89, PDF-Seite 34): Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?
+- `general-090` (Teil I - Aufgabe 90, PDF-Seite 34): Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …
+- `general-091` (Teil I - Aufgabe 91, PDF-Seite 34): In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …
+- `general-092` (Teil I - Aufgabe 92, PDF-Seite 35): Was bedeutet die Abkürzung CSU in Deutschland?
+- `general-093` (Teil I - Aufgabe 93, PDF-Seite 35): Je mehr "Zweitstimmen" eine Partei bei einer Bundestagswahl bekommt, desto …
+- `general-094` (Teil I - Aufgabe 94, PDF-Seite 35): Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?
+- `general-095` (Teil I - Aufgabe 95, PDF-Seite 36): Was gilt für die meisten Kinder in Deutschland?
+- `general-097` (Teil I - Aufgabe 97, PDF-Seite 36): Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?
+- `general-098` (Teil I - Aufgabe 98, PDF-Seite 37): Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …
+- `general-099` (Teil I - Aufgabe 99, PDF-Seite 37): Wer bezahlt in Deutschland die Sozialversicherungen?
+- `general-100` (Teil I - Aufgabe 100, PDF-Seite 37): Was gehört nicht zur gesetzlichen Sozialversicherung?
+- `general-101` (Teil I - Aufgabe 101, PDF-Seite 38): Gewerkschaften sind Interessenverbände der …
+- `general-102` (Teil I - Aufgabe 102, PDF-Seite 38): Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …
+- `general-103` (Teil I - Aufgabe 103, PDF-Seite 38): Was wird in Deutschland als "Ampelkoalition" bezeichnet? Die Zusammenarbeit …
+- `general-104` (Teil I - Aufgabe 104, PDF-Seite 39): Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?
+- `general-105` (Teil I - Aufgabe 105, PDF-Seite 39): Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?
+- `general-106` (Teil I - Aufgabe 106, PDF-Seite 39): In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?
+- `general-107` (Teil I - Aufgabe 107, PDF-Seite 40): Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+- `general-108` (Teil I - Aufgabe 108, PDF-Seite 40): Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …
+- `general-109` (Teil I - Aufgabe 109, PDF-Seite 40): Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?
+- `general-110` (Teil I - Aufgabe 110, PDF-Seite 41): Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+- `general-112` (Teil I - Aufgabe 112, PDF-Seite 41): Die Wahlen in Deutschland sind …
+- `general-113` (Teil I - Aufgabe 113, PDF-Seite 42): Wahlen in Deutschland gewinnt die Partei, die …
+- `general-114` (Teil I - Aufgabe 114, PDF-Seite 42): An demokratischen Wahlen in Deutschland teilzunehmen ist …
+- `general-115` (Teil I - Aufgabe 115, PDF-Seite 42): Was bedeutet "aktives Wahlrecht" in Deutschland?
+- `general-116` (Teil I - Aufgabe 116, PDF-Seite 43): Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …
+- `general-117` (Teil I - Aufgabe 117, PDF-Seite 43): Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?
+- `general-119` (Teil I - Aufgabe 119, PDF-Seite 44): Wahlen in Deutschland sind frei. Was bedeutet das?
+- `general-120` (Teil I - Aufgabe 120, PDF-Seite 44): Das Wahlsystem in Deutschland ist ein …
+- `general-121` (Teil I - Aufgabe 121, PDF-Seite 44): Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …
+- `general-122` (Teil I - Aufgabe 122, PDF-Seite 45): Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …
+- `general-123` (Teil I - Aufgabe 123, PDF-Seite 45): Was ist in Deutschland die "5%-Hürde"?
+- `general-124` (Teil I - Aufgabe 124, PDF-Seite 45): Die Bundestagswahl in Deutschland ist die Wahl …
+- `general-125` (Teil I - Aufgabe 125, PDF-Seite 46): In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …
+- `general-126` (Teil I - Aufgabe 126, PDF-Seite 46): Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?
+- `general-127` (Teil I - Aufgabe 127, PDF-Seite 46): Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …
+- `general-128` (Teil I - Aufgabe 128, PDF-Seite 47): Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …
+- `general-129` (Teil I - Aufgabe 129, PDF-Seite 47): Vom Volk gewählt wird in Deutschland …
+- `general-130` (Teil I - Aufgabe 130, PDF-Seite 48): Welcher Stimmzettel wäre bei einer Bundestagswahl gültig? In Anlehnung an Bundeswahlordnung (BWO), Anlage 26
+- `general-131` (Teil I - Aufgabe 131, PDF-Seite 49): In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …
+- `general-132` (Teil I - Aufgabe 132, PDF-Seite 49): Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?
+- `general-133` (Teil I - Aufgabe 133, PDF-Seite 49): Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?
+- `general-134` (Teil I - Aufgabe 134, PDF-Seite 50): Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?
+- `general-135` (Teil I - Aufgabe 135, PDF-Seite 50): Wen vertreten die Gewerkschaften in Deutschland?
+- `general-136` (Teil I - Aufgabe 136, PDF-Seite 50): Sie gehen in Deutschland zum Arbeitsgericht bei …
+- `general-137` (Teil I - Aufgabe 137, PDF-Seite 51): Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?
+- `general-138` (Teil I - Aufgabe 138, PDF-Seite 51): Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?
+- `general-139` (Teil I - Aufgabe 139, PDF-Seite 51): Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …
+- `general-140` (Teil I - Aufgabe 140, PDF-Seite 52): Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …
+- `general-141` (Teil I - Aufgabe 141, PDF-Seite 52): Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?
+- `general-142` (Teil I - Aufgabe 142, PDF-Seite 52): Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …
+- `general-143` (Teil I - Aufgabe 143, PDF-Seite 53): Eine Richterin/ein Richter in Deutschland gehört zur …
+- `general-144` (Teil I - Aufgabe 144, PDF-Seite 53): Eine Richterin/ein Richter gehört in Deutschland zur …
+- `general-145` (Teil I - Aufgabe 145, PDF-Seite 53): In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …
+- `general-146` (Teil I - Aufgabe 146, PDF-Seite 54): Wie nennt man in Deutschland ein Verfahren vor einem Gericht?
+- `general-147` (Teil I - Aufgabe 147, PDF-Seite 54): Was ist die Arbeit einer Richterin/eines Richters in Deutschland?
+- `general-148` (Teil I - Aufgabe 148, PDF-Seite 54): Was ist eine Aufgabe der Polizei in Deutschland?
+- `general-150` (Teil I - Aufgabe 150, PDF-Seite 55): Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …
+- `general-151` (Teil I - Aufgabe 151, PDF-Seite 55): Wer baute die Mauer in Berlin?
+- `general-152` (Teil I - Aufgabe 152, PDF-Seite 56): Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
+- `general-153` (Teil I - Aufgabe 153, PDF-Seite 56): Was war am 8. Mai 1945?
+- `general-154` (Teil I - Aufgabe 154, PDF-Seite 56): Wann war der Zweite Weltkrieg zu Ende?
+- `general-155` (Teil I - Aufgabe 155, PDF-Seite 57): Wann waren die Nationalsozialisten in Deutschland an der Macht?
+- `general-156` (Teil I - Aufgabe 156, PDF-Seite 57): In welchem Jahr wurde Hitler Reichskanzler?
+- `general-157` (Teil I - Aufgabe 157, PDF-Seite 57): Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …
+- `general-158` (Teil I - Aufgabe 158, PDF-Seite 58): Das "Dritte Reich" war eine …
+- `general-159` (Teil I - Aufgabe 159, PDF-Seite 58): Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?
+- `general-160` (Teil I - Aufgabe 160, PDF-Seite 58): Welcher Krieg dauerte von 1939 bis 1945?
+- `general-161` (Teil I - Aufgabe 161, PDF-Seite 59): Was kennzeichnete den NS-Staat? Eine Politik …
+- `general-162` (Teil I - Aufgabe 162, PDF-Seite 59): Claus Schenk Graf von Stauffenberg wurde bekannt durch …
+- `general-163` (Teil I - Aufgabe 163, PDF-Seite 59): In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?
+- `general-164` (Teil I - Aufgabe 164, PDF-Seite 60): Was passierte am 9. November 1938 in Deutschland?
+- `general-166` (Teil I - Aufgabe 166, PDF-Seite 60): Bei welchen Demonstrationen in Deutschland riefen die Menschen "Wir sind das Volk"?
+- `general-167` (Teil I - Aufgabe 167, PDF-Seite 61): Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als "Alliierte Besatzungsmächte" bezeichnet?
+- `general-168` (Teil I - Aufgabe 168, PDF-Seite 61): Welches Land war keine "Alliierte Besatzungsmacht" in Deutschland?
+- `general-170` (Teil I - Aufgabe 170, PDF-Seite 62): Was gab es während der Zeit des Nationalsozialismus in Deutschland?
+- `general-171` (Teil I - Aufgabe 171, PDF-Seite 62): Soziale Marktwirtschaft bedeutet, die Wirtschaft …
+- `general-172` (Teil I - Aufgabe 172, PDF-Seite 62): In welcher Besatzungszone wurde die DDR gegründet? In der …
+- `general-173` (Teil I - Aufgabe 173, PDF-Seite 63): Die Bundesrepublik Deutschland ist ein Gründungsmitglied …
+- `general-174` (Teil I - Aufgabe 174, PDF-Seite 63): Wann wurde die DDR gegründet?
+- `general-175` (Teil I - Aufgabe 175, PDF-Seite 63): Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
+- `general-176` (Teil I - Aufgabe 176, PDF-Seite 64): Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?
+- `general-177` (Teil I - Aufgabe 177, PDF-Seite 65): Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?
+- `general-178` (Teil I - Aufgabe 178, PDF-Seite 65): Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?
+- `general-179` (Teil I - Aufgabe 179, PDF-Seite 65): Wie endete der Zweite Weltkrieg in Europa offiziell?
+- `general-180` (Teil I - Aufgabe 180, PDF-Seite 66): Der erste Bundeskanzler der Bundesrepublik Deutschland war …
+- `general-181` (Teil I - Aufgabe 181, PDF-Seite 67): Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken? © Bundesregierung/Engelbert Reineke
+- `general-183` (Teil I - Aufgabe 183, PDF-Seite 68): Wann war in der Bundesrepublik Deutschland das "Wirtschaftswunder"?
+- `general-185` (Teil I - Aufgabe 185, PDF-Seite 69): Wofür stand der Ausdruck "Eiserner Vorhang"? Für die Abschottung …
+- `general-186` (Teil I - Aufgabe 186, PDF-Seite 69): Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
+- `general-187` (Teil I - Aufgabe 187, PDF-Seite 70): Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?
+- `general-188` (Teil I - Aufgabe 188, PDF-Seite 70): In welchem Jahr wurde die Mauer in Berlin gebaut?
+- `general-189` (Teil I - Aufgabe 189, PDF-Seite 71): Wann baute die DDR die Mauer in Berlin?
+- `general-190` (Teil I - Aufgabe 190, PDF-Seite 71): Was bedeutet die Abkürzung DDR?
+- `general-191` (Teil I - Aufgabe 191, PDF-Seite 71): Wann wurde die Mauer in Berlin für alle geöffnet?
+- `general-192` (Teil I - Aufgabe 192, PDF-Seite 72): Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+- `general-193` (Teil I - Aufgabe 193, PDF-Seite 72): Von 1961 bis 1989 war Berlin …
+- `general-194` (Teil I - Aufgabe 194, PDF-Seite 72): Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …
+- `general-195` (Teil I - Aufgabe 195, PDF-Seite 73): Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+- `general-196` (Teil I - Aufgabe 196, PDF-Seite 73): Warum nennt man die Zeit im Herbst 1989 in der DDR "Die Wende"? In dieser Zeit veränderte sich die DDR politisch …
+- `general-197` (Teil I - Aufgabe 197, PDF-Seite 73): Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+- `general-198` (Teil I - Aufgabe 198, PDF-Seite 74): Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+- `general-199` (Teil I - Aufgabe 199, PDF-Seite 74): Mit der Abkürzung "Stasi" meinte man in der DDR …
+- `general-200` (Teil I - Aufgabe 200, PDF-Seite 74): Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+- `general-201` (Teil I - Aufgabe 201, PDF-Seite 75): Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?
+- `general-202` (Teil I - Aufgabe 202, PDF-Seite 75): Zu wem gehörte die DDR im "Kalten Krieg"?
+- `general-203` (Teil I - Aufgabe 203, PDF-Seite 75): Wie hieß das Wirtschaftssystem der DDR?
+- `general-204` (Teil I - Aufgabe 204, PDF-Seite 76): Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?
+- `general-205` (Teil I - Aufgabe 205, PDF-Seite 76): Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …
+- `general-207` (Teil I - Aufgabe 207, PDF-Seite 77): In welchem Militärbündnis war die DDR Mitglied?
+- `general-208` (Teil I - Aufgabe 208, PDF-Seite 77): Was war die "Stasi"?
+- `general-209` (Teil I - Aufgabe 209, PDF-Seite 78): Welches war das Wappen der Deutschen Demokratischen Republik?
+- `general-210` (Teil I - Aufgabe 210, PDF-Seite 78): Was ereignete sich am 17. Juni 1953 in der DDR?
+- `general-211` (Teil I - Aufgabe 211, PDF-Seite 79): Welcher Politiker steht für die "Ostverträge"?
+- `general-212` (Teil I - Aufgabe 212, PDF-Seite 79): Wie heißt Deutschland mit vollem Namen?
+- `general-213` (Teil I - Aufgabe 213, PDF-Seite 79): Wie viele Einwohner hat Deutschland?
+- `general-215` (Teil I - Aufgabe 215, PDF-Seite 80): Wer wird als "Kanzler der Deutschen Einheit" bezeichnet?
+- `general-216` (Teil I - Aufgabe 216, PDF-Seite 81): Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen? © Deutscher Bundestag/Janine Schmitz
+- `general-217` (Teil I - Aufgabe 217, PDF-Seite 81): In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
+- `general-218` (Teil I - Aufgabe 218, PDF-Seite 82): Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?
+- `general-219` (Teil I - Aufgabe 219, PDF-Seite 82): Die Bundesrepublik Deutschland hat die Grenzen von heute seit …
+- `general-220` (Teil I - Aufgabe 220, PDF-Seite 82): Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
+- `general-221` (Teil I - Aufgabe 221, PDF-Seite 83): Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
+- `general-222` (Teil I - Aufgabe 222, PDF-Seite 83): Welches Land ist ein Nachbarland von Deutschland?
+- `general-224` (Teil I - Aufgabe 224, PDF-Seite 84): Was bedeutet die Abkürzung EU?
+- `general-225` (Teil I - Aufgabe 225, PDF-Seite 84): In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?
+- `general-226` (Teil I - Aufgabe 226, PDF-Seite 85): Welche ist die Flagge der Europäischen Union?
+- `general-227` (Teil I - Aufgabe 227, PDF-Seite 85): Welches Land ist ein Nachbarland von Deutschland?
+- `general-228` (Teil I - Aufgabe 228, PDF-Seite 85): Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?
+- `general-229` (Teil I - Aufgabe 229, PDF-Seite 86): Welches Land ist ein Nachbarland von Deutschland?
+- `general-230` (Teil I - Aufgabe 230, PDF-Seite 86): Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …
+- `general-231` (Teil I - Aufgabe 231, PDF-Seite 86): Was bedeutet der Begriff "europäische Integration"?
+- `general-232` (Teil I - Aufgabe 232, PDF-Seite 87): Wer wird bei der Europawahl gewählt?
+- `general-233` (Teil I - Aufgabe 233, PDF-Seite 87): Welches Land ist ein Nachbarland von Deutschland?
+- `general-234` (Teil I - Aufgabe 234, PDF-Seite 87): Wo ist ein Sitz des Europäischen Parlaments?
+- `general-235` (Teil I - Aufgabe 235, PDF-Seite 88): Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich? © Bundesregierung/Richard Schulze-Vorberg
+- `general-236` (Teil I - Aufgabe 236, PDF-Seite 89): Wie viele Mitgliedstaaten hat die EU heute?
+- `general-237` (Teil I - Aufgabe 237, PDF-Seite 89): 2007 wurde das 50-jährige Jubiläum der "Römischen Verträge" gefeiert. Was war der Inhalt der Verträge?
+- `general-238` (Teil I - Aufgabe 238, PDF-Seite 89): An welchen Orten arbeitet das Europäische Parlament?
+- `general-239` (Teil I - Aufgabe 239, PDF-Seite 90): Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
+- `general-240` (Teil I - Aufgabe 240, PDF-Seite 90): Seit wann bezahlt man in Deutschland mit dem Euro in bar?
+- `general-241` (Teil I - Aufgabe 241, PDF-Seite 90): Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?
+- `general-242` (Teil I - Aufgabe 242, PDF-Seite 91): Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?
+- `general-243` (Teil I - Aufgabe 243, PDF-Seite 91): Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
+- `general-244` (Teil I - Aufgabe 244, PDF-Seite 91): Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?
+- `general-245` (Teil I - Aufgabe 245, PDF-Seite 92): Wer darf in Deutschland nicht als Paar zusammenleben?
+- `general-247` (Teil I - Aufgabe 247, PDF-Seite 92): Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
+- `general-248` (Teil I - Aufgabe 248, PDF-Seite 93): Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …
+- `general-249` (Teil I - Aufgabe 249, PDF-Seite 93): Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?
+- `general-250` (Teil I - Aufgabe 250, PDF-Seite 93): In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …
+- `general-251` (Teil I - Aufgabe 251, PDF-Seite 94): Wenn man in Deutschland ein Kind schlägt, …
+- `general-252` (Teil I - Aufgabe 252, PDF-Seite 94): In Deutschland …
+- `general-253` (Teil I - Aufgabe 253, PDF-Seite 94): Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?
+- `general-254` (Teil I - Aufgabe 254, PDF-Seite 95): In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das "Trennungsjahr" einhalten. Was bedeutet das?
+- `general-255` (Teil I - Aufgabe 255, PDF-Seite 95): Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
+- `general-256` (Teil I - Aufgabe 256, PDF-Seite 95): Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?
+- `general-257` (Teil I - Aufgabe 257, PDF-Seite 96): Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …
+- `general-258` (Teil I - Aufgabe 258, PDF-Seite 96): Was darf das Jugendamt in Deutschland?
+- `general-259` (Teil I - Aufgabe 259, PDF-Seite 96): Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …
+- `general-260` (Teil I - Aufgabe 260, PDF-Seite 97): In Deutschland hat ein Kind in der Schule …
+- `general-261` (Teil I - Aufgabe 261, PDF-Seite 97): Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …
+- `general-262` (Teil I - Aufgabe 262, PDF-Seite 97): Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?
+- `general-263` (Teil I - Aufgabe 263, PDF-Seite 98): In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …
+- `general-264` (Teil I - Aufgabe 264, PDF-Seite 98): Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?
+- `general-265` (Teil I - Aufgabe 265, PDF-Seite 98): Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?
+- `general-266` (Teil I - Aufgabe 266, PDF-Seite 99): Wann beginnt die gesetzliche Nachtruhe in Deutschland?
+- `general-267` (Teil I - Aufgabe 267, PDF-Seite 99): Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?
+- `general-268` (Teil I - Aufgabe 268, PDF-Seite 99): Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?
+- `general-269` (Teil I - Aufgabe 269, PDF-Seite 100): In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …
+- `general-270` (Teil I - Aufgabe 270, PDF-Seite 100): Die Volkshochschule in Deutschland ist eine Einrichtung …
+- `general-271` (Teil I - Aufgabe 271, PDF-Seite 100): Was ist in Deutschland ein Brauch zu Weihnachten?
+- `general-272` (Teil I - Aufgabe 272, PDF-Seite 101): Welche Lebensform ist in Deutschland nicht erlaubt?
+- `general-273` (Teil I - Aufgabe 273, PDF-Seite 101): Bei Erziehungsproblemen gehen Sie in Deutschland …
+- `general-274` (Teil I - Aufgabe 274, PDF-Seite 101): Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?
+- `general-275` (Teil I - Aufgabe 275, PDF-Seite 102): Was braucht man in Deutschland für eine Ehescheidung?
+- `general-276` (Teil I - Aufgabe 276, PDF-Seite 102): Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?
+- `general-282` (Teil I - Aufgabe 282, PDF-Seite 104): Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?
+- `general-286` (Teil I - Aufgabe 286, PDF-Seite 105): Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?
+- `general-291` (Teil I - Aufgabe 291, PDF-Seite 108): Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …
+- `general-292` (Teil I - Aufgabe 292, PDF-Seite 108): Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?
+- `general-293` (Teil I - Aufgabe 293, PDF-Seite 109): Was ist in Deutschland ein Brauch zu Ostern?
+- `general-294` (Teil I - Aufgabe 294, PDF-Seite 109): Pfingsten ist ein …
+- `general-295` (Teil I - Aufgabe 295, PDF-Seite 109): Welche Religion hat die europäische und deutsche Kultur geprägt?
+- `general-296` (Teil I - Aufgabe 296, PDF-Seite 110): In Deutschland nennt man die letzten vier Wochen vor Weihnachten …
+- `general-297` (Teil I - Aufgabe 297, PDF-Seite 110): Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?
+- `general-298` (Teil I - Aufgabe 298, PDF-Seite 110): In der DDR lebten vor allem Migrantinnen und Migranten aus …
+- `general-299` (Teil I - Aufgabe 299, PDF-Seite 111): Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …
+- `general-300` (Teil I - Aufgabe 300, PDF-Seite 111): Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?
+- `baden-wuerttemberg-001` (Teil II - Baden-Württemberg - Aufgabe 1, PDF-Seite 112): Welches Wappen gehört zum Bundesland Baden-Württemberg?
+- `baden-wuerttemberg-002` (Teil II - Baden-Württemberg - Aufgabe 2, PDF-Seite 112): Welches ist ein Landkreis in Baden-Württemberg?
+- `baden-wuerttemberg-003` (Teil II - Baden-Württemberg - Aufgabe 3, PDF-Seite 113): Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?
+- `baden-wuerttemberg-004` (Teil II - Baden-Württemberg - Aufgabe 4, PDF-Seite 113): Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?
+- `baden-wuerttemberg-005` (Teil II - Baden-Württemberg - Aufgabe 5, PDF-Seite 113): Welche Farben hat die Landesflagge von Baden-Württemberg?
+- `baden-wuerttemberg-006` (Teil II - Baden-Württemberg - Aufgabe 6, PDF-Seite 114): Wo können Sie sich in Baden-Württemberg über politische Themen informieren?
+- `baden-wuerttemberg-007` (Teil II - Baden-Württemberg - Aufgabe 7, PDF-Seite 114): Die Landeshauptstadt von Baden-Württemberg heißt …
+- `baden-wuerttemberg-008` (Teil II - Baden-Württemberg - Aufgabe 8, PDF-Seite 115): Welches Bundesland ist Baden-Württemberg?
+- `baden-wuerttemberg-009` (Teil II - Baden-Württemberg - Aufgabe 9, PDF-Seite 116): Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?
+- `baden-wuerttemberg-010` (Teil II - Baden-Württemberg - Aufgabe 10, PDF-Seite 116): Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?
+- `bayern-001` (Teil II - Bayern - Aufgabe 1, PDF-Seite 117): Welches Wappen gehört zum Freistaat Bayern?
+- `bayern-002` (Teil II - Bayern - Aufgabe 2, PDF-Seite 117): Welches ist ein Landkreis in Bayern?
+- `bayern-003` (Teil II - Bayern - Aufgabe 3, PDF-Seite 118): Für wie viele Jahre wird der Landtag in Bayern gewählt?
+- `bayern-004` (Teil II - Bayern - Aufgabe 4, PDF-Seite 118): Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
+- `bayern-005` (Teil II - Bayern - Aufgabe 5, PDF-Seite 118): Welche Farben hat die Landesflagge von Bayern?
+- `bayern-006` (Teil II - Bayern - Aufgabe 6, PDF-Seite 119): Wo können Sie sich in Bayern über politische Themen informieren?
+- `bayern-007` (Teil II - Bayern - Aufgabe 7, PDF-Seite 119): Die Landeshauptstadt von Bayern heißt …
+- `bayern-008` (Teil II - Bayern - Aufgabe 8, PDF-Seite 120): Welches Bundesland ist Bayern?
+- `bayern-009` (Teil II - Bayern - Aufgabe 9, PDF-Seite 121): Wie nennt man die Regierungschefin/den Regierungschef in Bayern?
+- `bayern-010` (Teil II - Bayern - Aufgabe 10, PDF-Seite 121): Welche Ministerin/welchen Minister hat Bayern nicht?
+- `berlin-001` (Teil II - Berlin - Aufgabe 1, PDF-Seite 122): Welches Wappen gehört zum Bundesland Berlin?
+- `berlin-002` (Teil II - Berlin - Aufgabe 2, PDF-Seite 122): Welches ist ein Bezirk von Berlin?
+- `berlin-003` (Teil II - Berlin - Aufgabe 3, PDF-Seite 123): Für wie viele Jahre wird das Landesparlament in Berlin gewählt?
+- `berlin-004` (Teil II - Berlin - Aufgabe 4, PDF-Seite 123): Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?
+- `berlin-005` (Teil II - Berlin - Aufgabe 5, PDF-Seite 123): Welche Farben hat die Landesflagge von Berlin?
+- `berlin-006` (Teil II - Berlin - Aufgabe 6, PDF-Seite 124): Wo können Sie sich in Berlin über politische Themen informieren?
+- `berlin-007` (Teil II - Berlin - Aufgabe 7, PDF-Seite 124): Welches Bundesland ist ein Stadtstaat?
+- `berlin-008` (Teil II - Berlin - Aufgabe 8, PDF-Seite 125): Welches Bundesland ist Berlin?
+- `berlin-009` (Teil II - Berlin - Aufgabe 9, PDF-Seite 126): Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?
+- `berlin-010` (Teil II - Berlin - Aufgabe 10, PDF-Seite 126): Welche Senatorin/welchen Senator hat Berlin nicht?
+- `brandenburg-001` (Teil II - Brandenburg - Aufgabe 1, PDF-Seite 127): Welches Wappen gehört zum Bundesland Brandenburg?
+- `brandenburg-002` (Teil II - Brandenburg - Aufgabe 2, PDF-Seite 127): Welches ist ein Landkreis in Brandenburg?
+- `brandenburg-003` (Teil II - Brandenburg - Aufgabe 3, PDF-Seite 128): Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+- `brandenburg-004` (Teil II - Brandenburg - Aufgabe 4, PDF-Seite 128): Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?
+- `brandenburg-005` (Teil II - Brandenburg - Aufgabe 5, PDF-Seite 128): Welche Farben hat die Landesflagge von Brandenburg?
+- `brandenburg-006` (Teil II - Brandenburg - Aufgabe 6, PDF-Seite 129): Wo können Sie sich in Brandenburg über politische Themen informieren?
+- `brandenburg-007` (Teil II - Brandenburg - Aufgabe 7, PDF-Seite 129): Die Landeshauptstadt von Brandenburg heißt …
+- `brandenburg-008` (Teil II - Brandenburg - Aufgabe 8, PDF-Seite 130): Welches Bundesland ist Brandenburg?
+- `brandenburg-009` (Teil II - Brandenburg - Aufgabe 9, PDF-Seite 131): Wie nennt man die Regierungschefin/den Regierungschef in Brandenburg?
+- `brandenburg-010` (Teil II - Brandenburg - Aufgabe 10, PDF-Seite 131): Welche Ministerin/welchen Minister hat Brandenburg nicht?
+- `bremen-001` (Teil II - Bremen - Aufgabe 1, PDF-Seite 132): Welches Wappen gehört zur Freien Hansestadt Bremen?
+- `bremen-002` (Teil II - Bremen - Aufgabe 2, PDF-Seite 132): Welches ist ein Stadtteil von Bremen?
+- `bremen-003` (Teil II - Bremen - Aufgabe 3, PDF-Seite 133): Für wie viele Jahre wird das Landesparlament in Bremen gewählt?
+- `bremen-004` (Teil II - Bremen - Aufgabe 4, PDF-Seite 133): Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?
+- `bremen-005` (Teil II - Bremen - Aufgabe 5, PDF-Seite 133): Welche Farben hat die Landesflagge von Bremen?
+- `bremen-006` (Teil II - Bremen - Aufgabe 6, PDF-Seite 134): Wo können Sie sich in Bremen über politische Themen informieren?
+- `bremen-007` (Teil II - Bremen - Aufgabe 7, PDF-Seite 134): Was ist ein deutscher Stadtstaat?
+- `bremen-008` (Teil II - Bremen - Aufgabe 8, PDF-Seite 135): Welches Bundesland ist Bremen?
+- `bremen-009` (Teil II - Bremen - Aufgabe 9, PDF-Seite 136): Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?
+- `bremen-010` (Teil II - Bremen - Aufgabe 10, PDF-Seite 136): Welche Senatorin/welchen Senator hat Bremen nicht?
+- `hamburg-001` (Teil II - Hamburg - Aufgabe 1, PDF-Seite 137): Welches Wappen gehört zur Freien und Hansestadt Hamburg?
+- `hamburg-002` (Teil II - Hamburg - Aufgabe 2, PDF-Seite 137): Welches ist ein Bezirk von Hamburg?
+- `hamburg-003` (Teil II - Hamburg - Aufgabe 3, PDF-Seite 138): Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
+- `hamburg-004` (Teil II - Hamburg - Aufgabe 4, PDF-Seite 138): Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?
+- `hamburg-005` (Teil II - Hamburg - Aufgabe 5, PDF-Seite 138): Welche Farben hat die Landesflagge von Hamburg?
+- `hamburg-006` (Teil II - Hamburg - Aufgabe 6, PDF-Seite 139): Wo können Sie sich in Hamburg über politische Themen informieren?
+- `hamburg-007` (Teil II - Hamburg - Aufgabe 7, PDF-Seite 139): Welches Bundesland ist ein Stadtstaat?
+- `hamburg-008` (Teil II - Hamburg - Aufgabe 8, PDF-Seite 140): Welches Bundesland ist Hamburg?
+- `hamburg-009` (Teil II - Hamburg - Aufgabe 9, PDF-Seite 141): Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?
+- `hamburg-010` (Teil II - Hamburg - Aufgabe 10, PDF-Seite 141): Welche Senatorin/welchen Senator hat Hamburg nicht?
+- `hessen-001` (Teil II - Hessen - Aufgabe 1, PDF-Seite 142): Welches Wappen gehört zum Bundesland Hessen?
+- `hessen-002` (Teil II - Hessen - Aufgabe 2, PDF-Seite 142): Welches ist ein Landkreis in Hessen?
+- `hessen-003` (Teil II - Hessen - Aufgabe 3, PDF-Seite 143): Für wie viele Jahre wird der Landtag in Hessen gewählt?
+- `hessen-004` (Teil II - Hessen - Aufgabe 4, PDF-Seite 143): Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
+- `hessen-005` (Teil II - Hessen - Aufgabe 5, PDF-Seite 143): Welche Farben hat die Landesflagge von Hessen?
+- `hessen-006` (Teil II - Hessen - Aufgabe 6, PDF-Seite 144): Wo können Sie sich in Hessen über politische Themen informieren?
+- `hessen-007` (Teil II - Hessen - Aufgabe 7, PDF-Seite 144): Die Landeshauptstadt von Hessen heißt …
+- `hessen-008` (Teil II - Hessen - Aufgabe 8, PDF-Seite 145): Welches Bundesland ist Hessen?
+- `hessen-009` (Teil II - Hessen - Aufgabe 9, PDF-Seite 146): Wie nennt man die Regierungschefin/den Regierungschef in Hessen?
+- `hessen-010` (Teil II - Hessen - Aufgabe 10, PDF-Seite 146): Welche Ministerin/welchen Minister hat Hessen nicht?
+- `mecklenburg-vorpommern-001` (Teil II - Mecklenburg-Vorpommern - Aufgabe 1, PDF-Seite 147): Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?
+- `mecklenburg-vorpommern-002` (Teil II - Mecklenburg-Vorpommern - Aufgabe 2, PDF-Seite 147): Welches ist ein Landkreis in Mecklenburg-Vorpommern?
+- `mecklenburg-vorpommern-003` (Teil II - Mecklenburg-Vorpommern - Aufgabe 3, PDF-Seite 148): Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
+- `mecklenburg-vorpommern-004` (Teil II - Mecklenburg-Vorpommern - Aufgabe 4, PDF-Seite 148): Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?
+- `mecklenburg-vorpommern-005` (Teil II - Mecklenburg-Vorpommern - Aufgabe 5, PDF-Seite 148): Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?
+- `mecklenburg-vorpommern-006` (Teil II - Mecklenburg-Vorpommern - Aufgabe 6, PDF-Seite 149): Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?
+- `mecklenburg-vorpommern-007` (Teil II - Mecklenburg-Vorpommern - Aufgabe 7, PDF-Seite 149): Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …
+- `mecklenburg-vorpommern-008` (Teil II - Mecklenburg-Vorpommern - Aufgabe 8, PDF-Seite 150): Welches Bundesland ist Mecklenburg-Vorpommern?
+- `mecklenburg-vorpommern-009` (Teil II - Mecklenburg-Vorpommern - Aufgabe 9, PDF-Seite 151): Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?
+- `mecklenburg-vorpommern-010` (Teil II - Mecklenburg-Vorpommern - Aufgabe 10, PDF-Seite 151): Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?
+- `niedersachsen-001` (Teil II - Niedersachsen - Aufgabe 1, PDF-Seite 152): Welches Wappen gehört zum Bundesland Niedersachsen?
+- `niedersachsen-002` (Teil II - Niedersachsen - Aufgabe 2, PDF-Seite 152): Welches ist ein Landkreis in Niedersachsen?
+- `niedersachsen-003` (Teil II - Niedersachsen - Aufgabe 3, PDF-Seite 153): Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
+- `niedersachsen-004` (Teil II - Niedersachsen - Aufgabe 4, PDF-Seite 153): Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
+- `niedersachsen-005` (Teil II - Niedersachsen - Aufgabe 5, PDF-Seite 153): Welche Farben hat die Landesflagge von Niedersachsen?
+- `niedersachsen-006` (Teil II - Niedersachsen - Aufgabe 6, PDF-Seite 154): Wo können Sie sich in Niedersachsen über politische Themen informieren?
+- `niedersachsen-007` (Teil II - Niedersachsen - Aufgabe 7, PDF-Seite 154): Die Landeshauptstadt von Niedersachsen heißt …
+- `niedersachsen-008` (Teil II - Niedersachsen - Aufgabe 8, PDF-Seite 155): Welches Bundesland ist Niedersachsen?
+- `niedersachsen-009` (Teil II - Niedersachsen - Aufgabe 9, PDF-Seite 156): Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?
+- `niedersachsen-010` (Teil II - Niedersachsen - Aufgabe 10, PDF-Seite 156): Welche Ministerin/welchen Minister hat Niedersachsen nicht?
+- `nordrhein-westfalen-001` (Teil II - Nordrhein-Westfalen - Aufgabe 1, PDF-Seite 157): Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?
+- `nordrhein-westfalen-002` (Teil II - Nordrhein-Westfalen - Aufgabe 2, PDF-Seite 157): Welches ist ein Landkreis in Nordrhein-Westfalen?
+- `nordrhein-westfalen-003` (Teil II - Nordrhein-Westfalen - Aufgabe 3, PDF-Seite 158): Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?
+- `nordrhein-westfalen-004` (Teil II - Nordrhein-Westfalen - Aufgabe 4, PDF-Seite 158): Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?
+- `nordrhein-westfalen-005` (Teil II - Nordrhein-Westfalen - Aufgabe 5, PDF-Seite 158): Welche Farben hat die Landesflagge von Nordrhein-Westfalen?
+- `nordrhein-westfalen-006` (Teil II - Nordrhein-Westfalen - Aufgabe 6, PDF-Seite 159): Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?
+- `nordrhein-westfalen-007` (Teil II - Nordrhein-Westfalen - Aufgabe 7, PDF-Seite 159): Die Landeshauptstadt von Nordrhein-Westfalen heißt …
+- `nordrhein-westfalen-008` (Teil II - Nordrhein-Westfalen - Aufgabe 8, PDF-Seite 160): Welches Bundesland ist Nordrhein-Westfalen?
+- `nordrhein-westfalen-009` (Teil II - Nordrhein-Westfalen - Aufgabe 9, PDF-Seite 161): Wie nennt man die Regierungschefin/den Regierungschef in Nordrhein-Westfalen?
+- `nordrhein-westfalen-010` (Teil II - Nordrhein-Westfalen - Aufgabe 10, PDF-Seite 161): Welche Ministerin/welchen Minister hat Nordrhein-Westfalen nicht?
+- `rheinland-pfalz-001` (Teil II - Rheinland-Pfalz - Aufgabe 1, PDF-Seite 162): Welches Wappen gehört zum Bundesland Rheinland-Pfalz?
+- `rheinland-pfalz-002` (Teil II - Rheinland-Pfalz - Aufgabe 2, PDF-Seite 162): Welches ist ein Landkreis in Rheinland-Pfalz?
+- `rheinland-pfalz-003` (Teil II - Rheinland-Pfalz - Aufgabe 3, PDF-Seite 163): Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?
+- `rheinland-pfalz-004` (Teil II - Rheinland-Pfalz - Aufgabe 4, PDF-Seite 163): Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?
+- `rheinland-pfalz-005` (Teil II - Rheinland-Pfalz - Aufgabe 5, PDF-Seite 163): Welche Farben hat die Landesflagge von Rheinland-Pfalz?
+- `rheinland-pfalz-006` (Teil II - Rheinland-Pfalz - Aufgabe 6, PDF-Seite 164): Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?
+- `rheinland-pfalz-007` (Teil II - Rheinland-Pfalz - Aufgabe 7, PDF-Seite 164): Die Landeshauptstadt von Rheinland-Pfalz heißt …
+- `rheinland-pfalz-008` (Teil II - Rheinland-Pfalz - Aufgabe 8, PDF-Seite 165): Welches Bundesland ist Rheinland-Pfalz?
+- `rheinland-pfalz-009` (Teil II - Rheinland-Pfalz - Aufgabe 9, PDF-Seite 166): Wie nennt man die Regierungschefin/den Regierungschef in Rheinland-Pfalz?
+- `rheinland-pfalz-010` (Teil II - Rheinland-Pfalz - Aufgabe 10, PDF-Seite 166): Welche Ministerin/welchen Minister hat Rheinland-Pfalz nicht?
+- `saarland-001` (Teil II - Saarland - Aufgabe 1, PDF-Seite 167): Welches Wappen gehört zum Bundesland Saarland?
+- `saarland-002` (Teil II - Saarland - Aufgabe 2, PDF-Seite 167): Welches ist ein Landkreis im Saarland?
+- `saarland-003` (Teil II - Saarland - Aufgabe 3, PDF-Seite 168): Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
+- `saarland-004` (Teil II - Saarland - Aufgabe 4, PDF-Seite 168): Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?
+- `saarland-005` (Teil II - Saarland - Aufgabe 5, PDF-Seite 168): Welche Farben hat die Landesflagge des Saarlandes?
+- `saarland-006` (Teil II - Saarland - Aufgabe 6, PDF-Seite 169): Wo können Sie sich im Saarland über politische Themen informieren?
+- `saarland-007` (Teil II - Saarland - Aufgabe 7, PDF-Seite 169): Die Landeshauptstadt des Saarlandes heißt …
+- `saarland-008` (Teil II - Saarland - Aufgabe 8, PDF-Seite 170): Welches Bundesland ist das Saarland?
+- `saarland-009` (Teil II - Saarland - Aufgabe 9, PDF-Seite 171): Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?
+- `saarland-010` (Teil II - Saarland - Aufgabe 10, PDF-Seite 171): Welche Ministerin/welchen Minister hat das Saarland nicht?
+- `sachsen-001` (Teil II - Sachsen - Aufgabe 1, PDF-Seite 172): Welches Wappen gehört zum Freistaat Sachsen?
+- `sachsen-002` (Teil II - Sachsen - Aufgabe 2, PDF-Seite 172): Welches ist ein Landkreis in Sachsen?
+- `sachsen-003` (Teil II - Sachsen - Aufgabe 3, PDF-Seite 173): Für wie viele Jahre wird der Landtag in Sachsen gewählt?
+- `sachsen-004` (Teil II - Sachsen - Aufgabe 4, PDF-Seite 173): Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?
+- `sachsen-005` (Teil II - Sachsen - Aufgabe 5, PDF-Seite 173): Welche Farben hat die Landesflagge von Sachsen?
+- `sachsen-006` (Teil II - Sachsen - Aufgabe 6, PDF-Seite 174): Wo können Sie sich in Sachsen über politische Themen informieren?
+- `sachsen-007` (Teil II - Sachsen - Aufgabe 7, PDF-Seite 174): Die Landeshauptstadt von Sachsen heißt …
+- `sachsen-008` (Teil II - Sachsen - Aufgabe 8, PDF-Seite 175): Welches Bundesland ist Sachsen?
+- `sachsen-009` (Teil II - Sachsen - Aufgabe 9, PDF-Seite 176): Wie nennt man die Regierungschefin/den Regierungschef in Sachsen?
+- `sachsen-010` (Teil II - Sachsen - Aufgabe 10, PDF-Seite 176): Welche Ministerin/welchen Minister hat Sachsen nicht?
+- `sachsen-anhalt-001` (Teil II - Sachsen-Anhalt - Aufgabe 1, PDF-Seite 177): Welches Wappen gehört zum Bundesland Sachsen-Anhalt?
+- `sachsen-anhalt-002` (Teil II - Sachsen-Anhalt - Aufgabe 2, PDF-Seite 177): Welches ist ein Landkreis in Sachsen-Anhalt?
+- `sachsen-anhalt-003` (Teil II - Sachsen-Anhalt - Aufgabe 3, PDF-Seite 178): Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?
+- `sachsen-anhalt-004` (Teil II - Sachsen-Anhalt - Aufgabe 4, PDF-Seite 178): Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?
+- `sachsen-anhalt-005` (Teil II - Sachsen-Anhalt - Aufgabe 5, PDF-Seite 178): Welche Farben hat die Landesflagge von Sachsen-Anhalt?
+- `sachsen-anhalt-006` (Teil II - Sachsen-Anhalt - Aufgabe 6, PDF-Seite 179): Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?
+- `sachsen-anhalt-007` (Teil II - Sachsen-Anhalt - Aufgabe 7, PDF-Seite 179): Die Landeshauptstadt von Sachsen-Anhalt heißt …
+- `sachsen-anhalt-008` (Teil II - Sachsen-Anhalt - Aufgabe 8, PDF-Seite 180): Welches Bundesland ist Sachsen-Anhalt?
+- `sachsen-anhalt-009` (Teil II - Sachsen-Anhalt - Aufgabe 9, PDF-Seite 181): Wie nennt man die Regierungschefin/den Regierungschef in Sachsen-Anhalt?
+- `sachsen-anhalt-010` (Teil II - Sachsen-Anhalt - Aufgabe 10, PDF-Seite 181): Welche Ministerin/welchen Minister hat Sachsen-Anhalt nicht?
+- `schleswig-holstein-001` (Teil II - Schleswig-Holstein - Aufgabe 1, PDF-Seite 182): Welches Wappen gehört zum Bundesland Schleswig-Holstein?
+- `schleswig-holstein-002` (Teil II - Schleswig-Holstein - Aufgabe 2, PDF-Seite 182): Welches ist ein Landkreis in Schleswig-Holstein?
+- `schleswig-holstein-003` (Teil II - Schleswig-Holstein - Aufgabe 3, PDF-Seite 183): Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?
+- `schleswig-holstein-004` (Teil II - Schleswig-Holstein - Aufgabe 4, PDF-Seite 183): Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?
+- `schleswig-holstein-005` (Teil II - Schleswig-Holstein - Aufgabe 5, PDF-Seite 183): Welche Farben hat die Landesflagge von Schleswig-Holstein?
+- `schleswig-holstein-006` (Teil II - Schleswig-Holstein - Aufgabe 6, PDF-Seite 184): Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
+- `schleswig-holstein-007` (Teil II - Schleswig-Holstein - Aufgabe 7, PDF-Seite 184): Die Landeshauptstadt von Schleswig-Holstein heißt …
+- `schleswig-holstein-008` (Teil II - Schleswig-Holstein - Aufgabe 8, PDF-Seite 185): Welches Bundesland ist Schleswig-Holstein?
+- `schleswig-holstein-009` (Teil II - Schleswig-Holstein - Aufgabe 9, PDF-Seite 186): Wie nennt man die Regierungschefin/den Regierungschef in Schleswig-Holstein?
+- `schleswig-holstein-010` (Teil II - Schleswig-Holstein - Aufgabe 10, PDF-Seite 186): Welche Ministerin/welchen Minister hat Schleswig-Holstein nicht?
+- `thueringen-001` (Teil II - Thüringen - Aufgabe 1, PDF-Seite 187): Welches Wappen gehört zum Freistaat Thüringen?
+- `thueringen-002` (Teil II - Thüringen - Aufgabe 2, PDF-Seite 187): Welches ist ein Landkreis in Thüringen?
+- `thueringen-003` (Teil II - Thüringen - Aufgabe 3, PDF-Seite 188): Für wie viele Jahre wird der Landtag in Thüringen gewählt?
+- `thueringen-004` (Teil II - Thüringen - Aufgabe 4, PDF-Seite 188): Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?
+- `thueringen-005` (Teil II - Thüringen - Aufgabe 5, PDF-Seite 188): Welche Farben hat die Landesflagge von Thüringen?
+- `thueringen-006` (Teil II - Thüringen - Aufgabe 6, PDF-Seite 189): Wo können Sie sich in Thüringen über politische Themen informieren?
+- `thueringen-007` (Teil II - Thüringen - Aufgabe 7, PDF-Seite 189): Die Landeshauptstadt von Thüringen heißt …
+- `thueringen-008` (Teil II - Thüringen - Aufgabe 8, PDF-Seite 190): Welches Bundesland ist Thüringen?
+- `thueringen-009` (Teil II - Thüringen - Aufgabe 9, PDF-Seite 191): Wie nennt man die Regierungschefin/den Regierungschef in Thüringen?
+- `thueringen-010` (Teil II - Thüringen - Aufgabe 10, PDF-Seite 191): Welche Ministerin/welchen Minister hat Thüringen nicht?

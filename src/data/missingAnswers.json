@@ -1,0 +1,3822 @@
+[
+  {
+    "id": "general-027",
+    "number": "27",
+    "sourceNumber": "Teil I - Aufgabe 27",
+    "questionText": "Deutschland ist …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Demokratie, Grundrechte und Staatsstruktur",
+    "state": "",
+    "sourcePage": "11"
+  },
+  {
+    "id": "general-054",
+    "number": "54",
+    "sourceNumber": "Teil I - Aufgabe 54",
+    "questionText": "Was ist keine staatliche Gewalt in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "20"
+  },
+  {
+    "id": "general-055",
+    "number": "55",
+    "sourceNumber": "Teil I - Aufgabe 55",
+    "questionText": "Was zeigt dieses Bild? © Deutscher Bundestag/Achim Melde",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "21"
+  },
+  {
+    "id": "general-056",
+    "number": "56",
+    "sourceNumber": "Teil I - Aufgabe 56",
+    "questionText": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "21"
+  },
+  {
+    "id": "general-057",
+    "number": "57",
+    "sourceNumber": "Teil I - Aufgabe 57",
+    "questionText": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "22"
+  },
+  {
+    "id": "general-058",
+    "number": "58",
+    "sourceNumber": "Teil I - Aufgabe 58",
+    "questionText": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "22"
+  },
+  {
+    "id": "general-059",
+    "number": "59",
+    "sourceNumber": "Teil I - Aufgabe 59",
+    "questionText": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "22"
+  },
+  {
+    "id": "general-060",
+    "number": "60",
+    "sourceNumber": "Teil I - Aufgabe 60",
+    "questionText": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "23"
+  },
+  {
+    "id": "general-061",
+    "number": "61",
+    "sourceNumber": "Teil I - Aufgabe 61",
+    "questionText": "Was bedeutet \"Volkssouveränität\"?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "23"
+  },
+  {
+    "id": "general-062",
+    "number": "62",
+    "sourceNumber": "Teil I - Aufgabe 62",
+    "questionText": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "23"
+  },
+  {
+    "id": "general-063",
+    "number": "63",
+    "sourceNumber": "Teil I - Aufgabe 63",
+    "questionText": "Was gehört in Deutschland nicht zur Exekutive?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "24"
+  },
+  {
+    "id": "general-064",
+    "number": "64",
+    "sourceNumber": "Teil I - Aufgabe 64",
+    "questionText": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "24"
+  },
+  {
+    "id": "general-065",
+    "number": "65",
+    "sourceNumber": "Teil I - Aufgabe 65",
+    "questionText": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "24"
+  },
+  {
+    "id": "general-067",
+    "number": "67",
+    "sourceNumber": "Teil I - Aufgabe 67",
+    "questionText": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "25"
+  },
+  {
+    "id": "general-068",
+    "number": "68",
+    "sourceNumber": "Teil I - Aufgabe 68",
+    "questionText": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "25"
+  },
+  {
+    "id": "general-069",
+    "number": "69",
+    "sourceNumber": "Teil I - Aufgabe 69",
+    "questionText": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "26"
+  },
+  {
+    "id": "general-070",
+    "number": "70",
+    "sourceNumber": "Teil I - Aufgabe 70",
+    "questionText": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten? © Bundesregierung/Engelbert Reineke",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "27"
+  },
+  {
+    "id": "general-071",
+    "number": "71",
+    "sourceNumber": "Teil I - Aufgabe 71",
+    "questionText": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "28"
+  },
+  {
+    "id": "general-072",
+    "number": "72",
+    "sourceNumber": "Teil I - Aufgabe 72",
+    "questionText": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "28"
+  },
+  {
+    "id": "general-073",
+    "number": "73",
+    "sourceNumber": "Teil I - Aufgabe 73",
+    "questionText": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "28"
+  },
+  {
+    "id": "general-075",
+    "number": "75",
+    "sourceNumber": "Teil I - Aufgabe 75",
+    "questionText": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "29"
+  },
+  {
+    "id": "general-076",
+    "number": "76",
+    "sourceNumber": "Teil I - Aufgabe 76",
+    "questionText": "Was bedeutet die Abkürzung CDU in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "29"
+  },
+  {
+    "id": "general-077",
+    "number": "77",
+    "sourceNumber": "Teil I - Aufgabe 77",
+    "questionText": "Was ist die Bundeswehr?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "30"
+  },
+  {
+    "id": "general-078",
+    "number": "78",
+    "sourceNumber": "Teil I - Aufgabe 78",
+    "questionText": "Was bedeutet die Abkürzung SPD?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "30"
+  },
+  {
+    "id": "general-079",
+    "number": "79",
+    "sourceNumber": "Teil I - Aufgabe 79",
+    "questionText": "Was bedeutet die Abkürzung FDP in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "30"
+  },
+  {
+    "id": "general-080",
+    "number": "80",
+    "sourceNumber": "Teil I - Aufgabe 80",
+    "questionText": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "31"
+  },
+  {
+    "id": "general-081",
+    "number": "81",
+    "sourceNumber": "Teil I - Aufgabe 81",
+    "questionText": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "31"
+  },
+  {
+    "id": "general-082",
+    "number": "82",
+    "sourceNumber": "Teil I - Aufgabe 82",
+    "questionText": "Wer leitet das deutsche Bundeskabinett?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "31"
+  },
+  {
+    "id": "general-083",
+    "number": "83",
+    "sourceNumber": "Teil I - Aufgabe 83",
+    "questionText": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "32"
+  },
+  {
+    "id": "general-084",
+    "number": "84",
+    "sourceNumber": "Teil I - Aufgabe 84",
+    "questionText": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "32"
+  },
+  {
+    "id": "general-085",
+    "number": "85",
+    "sourceNumber": "Teil I - Aufgabe 85",
+    "questionText": "Wer bildet den deutschen Bundesrat?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "32"
+  },
+  {
+    "id": "general-086",
+    "number": "86",
+    "sourceNumber": "Teil I - Aufgabe 86",
+    "questionText": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "33"
+  },
+  {
+    "id": "general-087",
+    "number": "87",
+    "sourceNumber": "Teil I - Aufgabe 87",
+    "questionText": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "33"
+  },
+  {
+    "id": "general-088",
+    "number": "88",
+    "sourceNumber": "Teil I - Aufgabe 88",
+    "questionText": "Die parlamentarische Opposition im Deutschen Bundestag …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "33"
+  },
+  {
+    "id": "general-089",
+    "number": "89",
+    "sourceNumber": "Teil I - Aufgabe 89",
+    "questionText": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "34"
+  },
+  {
+    "id": "general-090",
+    "number": "90",
+    "sourceNumber": "Teil I - Aufgabe 90",
+    "questionText": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "34"
+  },
+  {
+    "id": "general-091",
+    "number": "91",
+    "sourceNumber": "Teil I - Aufgabe 91",
+    "questionText": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "34"
+  },
+  {
+    "id": "general-092",
+    "number": "92",
+    "sourceNumber": "Teil I - Aufgabe 92",
+    "questionText": "Was bedeutet die Abkürzung CSU in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "35"
+  },
+  {
+    "id": "general-093",
+    "number": "93",
+    "sourceNumber": "Teil I - Aufgabe 93",
+    "questionText": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "35"
+  },
+  {
+    "id": "general-094",
+    "number": "94",
+    "sourceNumber": "Teil I - Aufgabe 94",
+    "questionText": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "35"
+  },
+  {
+    "id": "general-095",
+    "number": "95",
+    "sourceNumber": "Teil I - Aufgabe 95",
+    "questionText": "Was gilt für die meisten Kinder in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "36"
+  },
+  {
+    "id": "general-097",
+    "number": "97",
+    "sourceNumber": "Teil I - Aufgabe 97",
+    "questionText": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "36"
+  },
+  {
+    "id": "general-098",
+    "number": "98",
+    "sourceNumber": "Teil I - Aufgabe 98",
+    "questionText": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "37"
+  },
+  {
+    "id": "general-099",
+    "number": "99",
+    "sourceNumber": "Teil I - Aufgabe 99",
+    "questionText": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "37"
+  },
+  {
+    "id": "general-100",
+    "number": "100",
+    "sourceNumber": "Teil I - Aufgabe 100",
+    "questionText": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Parteien, Wahlen und Regierung",
+    "state": "",
+    "sourcePage": "37"
+  },
+  {
+    "id": "general-101",
+    "number": "101",
+    "sourceNumber": "Teil I - Aufgabe 101",
+    "questionText": "Gewerkschaften sind Interessenverbände der …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "38"
+  },
+  {
+    "id": "general-102",
+    "number": "102",
+    "sourceNumber": "Teil I - Aufgabe 102",
+    "questionText": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "38"
+  },
+  {
+    "id": "general-103",
+    "number": "103",
+    "sourceNumber": "Teil I - Aufgabe 103",
+    "questionText": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "38"
+  },
+  {
+    "id": "general-104",
+    "number": "104",
+    "sourceNumber": "Teil I - Aufgabe 104",
+    "questionText": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "39"
+  },
+  {
+    "id": "general-105",
+    "number": "105",
+    "sourceNumber": "Teil I - Aufgabe 105",
+    "questionText": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "39"
+  },
+  {
+    "id": "general-106",
+    "number": "106",
+    "sourceNumber": "Teil I - Aufgabe 106",
+    "questionText": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "39"
+  },
+  {
+    "id": "general-107",
+    "number": "107",
+    "sourceNumber": "Teil I - Aufgabe 107",
+    "questionText": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "40"
+  },
+  {
+    "id": "general-108",
+    "number": "108",
+    "sourceNumber": "Teil I - Aufgabe 108",
+    "questionText": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "40"
+  },
+  {
+    "id": "general-109",
+    "number": "109",
+    "sourceNumber": "Teil I - Aufgabe 109",
+    "questionText": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "40"
+  },
+  {
+    "id": "general-110",
+    "number": "110",
+    "sourceNumber": "Teil I - Aufgabe 110",
+    "questionText": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "41"
+  },
+  {
+    "id": "general-112",
+    "number": "112",
+    "sourceNumber": "Teil I - Aufgabe 112",
+    "questionText": "Die Wahlen in Deutschland sind …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "41"
+  },
+  {
+    "id": "general-113",
+    "number": "113",
+    "sourceNumber": "Teil I - Aufgabe 113",
+    "questionText": "Wahlen in Deutschland gewinnt die Partei, die …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "42"
+  },
+  {
+    "id": "general-114",
+    "number": "114",
+    "sourceNumber": "Teil I - Aufgabe 114",
+    "questionText": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "42"
+  },
+  {
+    "id": "general-115",
+    "number": "115",
+    "sourceNumber": "Teil I - Aufgabe 115",
+    "questionText": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "42"
+  },
+  {
+    "id": "general-116",
+    "number": "116",
+    "sourceNumber": "Teil I - Aufgabe 116",
+    "questionText": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "43"
+  },
+  {
+    "id": "general-117",
+    "number": "117",
+    "sourceNumber": "Teil I - Aufgabe 117",
+    "questionText": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "43"
+  },
+  {
+    "id": "general-119",
+    "number": "119",
+    "sourceNumber": "Teil I - Aufgabe 119",
+    "questionText": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "44"
+  },
+  {
+    "id": "general-120",
+    "number": "120",
+    "sourceNumber": "Teil I - Aufgabe 120",
+    "questionText": "Das Wahlsystem in Deutschland ist ein …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "44"
+  },
+  {
+    "id": "general-121",
+    "number": "121",
+    "sourceNumber": "Teil I - Aufgabe 121",
+    "questionText": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "44"
+  },
+  {
+    "id": "general-122",
+    "number": "122",
+    "sourceNumber": "Teil I - Aufgabe 122",
+    "questionText": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "45"
+  },
+  {
+    "id": "general-123",
+    "number": "123",
+    "sourceNumber": "Teil I - Aufgabe 123",
+    "questionText": "Was ist in Deutschland die \"5%-Hürde\"?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "45"
+  },
+  {
+    "id": "general-124",
+    "number": "124",
+    "sourceNumber": "Teil I - Aufgabe 124",
+    "questionText": "Die Bundestagswahl in Deutschland ist die Wahl …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "45"
+  },
+  {
+    "id": "general-125",
+    "number": "125",
+    "sourceNumber": "Teil I - Aufgabe 125",
+    "questionText": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "46"
+  },
+  {
+    "id": "general-126",
+    "number": "126",
+    "sourceNumber": "Teil I - Aufgabe 126",
+    "questionText": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "46"
+  },
+  {
+    "id": "general-127",
+    "number": "127",
+    "sourceNumber": "Teil I - Aufgabe 127",
+    "questionText": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "46"
+  },
+  {
+    "id": "general-128",
+    "number": "128",
+    "sourceNumber": "Teil I - Aufgabe 128",
+    "questionText": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "47"
+  },
+  {
+    "id": "general-129",
+    "number": "129",
+    "sourceNumber": "Teil I - Aufgabe 129",
+    "questionText": "Vom Volk gewählt wird in Deutschland …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "47"
+  },
+  {
+    "id": "general-130",
+    "number": "130",
+    "sourceNumber": "Teil I - Aufgabe 130",
+    "questionText": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig? In Anlehnung an Bundeswahlordnung (BWO), Anlage 26",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "48"
+  },
+  {
+    "id": "general-131",
+    "number": "131",
+    "sourceNumber": "Teil I - Aufgabe 131",
+    "questionText": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "49"
+  },
+  {
+    "id": "general-132",
+    "number": "132",
+    "sourceNumber": "Teil I - Aufgabe 132",
+    "questionText": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "49"
+  },
+  {
+    "id": "general-133",
+    "number": "133",
+    "sourceNumber": "Teil I - Aufgabe 133",
+    "questionText": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "49"
+  },
+  {
+    "id": "general-134",
+    "number": "134",
+    "sourceNumber": "Teil I - Aufgabe 134",
+    "questionText": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "50"
+  },
+  {
+    "id": "general-135",
+    "number": "135",
+    "sourceNumber": "Teil I - Aufgabe 135",
+    "questionText": "Wen vertreten die Gewerkschaften in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "50"
+  },
+  {
+    "id": "general-136",
+    "number": "136",
+    "sourceNumber": "Teil I - Aufgabe 136",
+    "questionText": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "50"
+  },
+  {
+    "id": "general-137",
+    "number": "137",
+    "sourceNumber": "Teil I - Aufgabe 137",
+    "questionText": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "51"
+  },
+  {
+    "id": "general-138",
+    "number": "138",
+    "sourceNumber": "Teil I - Aufgabe 138",
+    "questionText": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "51"
+  },
+  {
+    "id": "general-139",
+    "number": "139",
+    "sourceNumber": "Teil I - Aufgabe 139",
+    "questionText": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "51"
+  },
+  {
+    "id": "general-140",
+    "number": "140",
+    "sourceNumber": "Teil I - Aufgabe 140",
+    "questionText": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "52"
+  },
+  {
+    "id": "general-141",
+    "number": "141",
+    "sourceNumber": "Teil I - Aufgabe 141",
+    "questionText": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "52"
+  },
+  {
+    "id": "general-142",
+    "number": "142",
+    "sourceNumber": "Teil I - Aufgabe 142",
+    "questionText": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "52"
+  },
+  {
+    "id": "general-143",
+    "number": "143",
+    "sourceNumber": "Teil I - Aufgabe 143",
+    "questionText": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "53"
+  },
+  {
+    "id": "general-144",
+    "number": "144",
+    "sourceNumber": "Teil I - Aufgabe 144",
+    "questionText": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "53"
+  },
+  {
+    "id": "general-145",
+    "number": "145",
+    "sourceNumber": "Teil I - Aufgabe 145",
+    "questionText": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "53"
+  },
+  {
+    "id": "general-146",
+    "number": "146",
+    "sourceNumber": "Teil I - Aufgabe 146",
+    "questionText": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "54"
+  },
+  {
+    "id": "general-147",
+    "number": "147",
+    "sourceNumber": "Teil I - Aufgabe 147",
+    "questionText": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "54"
+  },
+  {
+    "id": "general-148",
+    "number": "148",
+    "sourceNumber": "Teil I - Aufgabe 148",
+    "questionText": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "54"
+  },
+  {
+    "id": "general-150",
+    "number": "150",
+    "sourceNumber": "Teil I - Aufgabe 150",
+    "questionText": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+    "category": "Leben in der Demokratie",
+    "subcategory": "Recht, EU und bürgerschaftliches Leben",
+    "state": "",
+    "sourcePage": "55"
+  },
+  {
+    "id": "general-151",
+    "number": "151",
+    "sourceNumber": "Teil I - Aufgabe 151",
+    "questionText": "Wer baute die Mauer in Berlin?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "55"
+  },
+  {
+    "id": "general-152",
+    "number": "152",
+    "sourceNumber": "Teil I - Aufgabe 152",
+    "questionText": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "56"
+  },
+  {
+    "id": "general-153",
+    "number": "153",
+    "sourceNumber": "Teil I - Aufgabe 153",
+    "questionText": "Was war am 8. Mai 1945?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "56"
+  },
+  {
+    "id": "general-154",
+    "number": "154",
+    "sourceNumber": "Teil I - Aufgabe 154",
+    "questionText": "Wann war der Zweite Weltkrieg zu Ende?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "56"
+  },
+  {
+    "id": "general-155",
+    "number": "155",
+    "sourceNumber": "Teil I - Aufgabe 155",
+    "questionText": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "57"
+  },
+  {
+    "id": "general-156",
+    "number": "156",
+    "sourceNumber": "Teil I - Aufgabe 156",
+    "questionText": "In welchem Jahr wurde Hitler Reichskanzler?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "57"
+  },
+  {
+    "id": "general-157",
+    "number": "157",
+    "sourceNumber": "Teil I - Aufgabe 157",
+    "questionText": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "57"
+  },
+  {
+    "id": "general-158",
+    "number": "158",
+    "sourceNumber": "Teil I - Aufgabe 158",
+    "questionText": "Das \"Dritte Reich\" war eine …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "58"
+  },
+  {
+    "id": "general-159",
+    "number": "159",
+    "sourceNumber": "Teil I - Aufgabe 159",
+    "questionText": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "58"
+  },
+  {
+    "id": "general-160",
+    "number": "160",
+    "sourceNumber": "Teil I - Aufgabe 160",
+    "questionText": "Welcher Krieg dauerte von 1939 bis 1945?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "58"
+  },
+  {
+    "id": "general-161",
+    "number": "161",
+    "sourceNumber": "Teil I - Aufgabe 161",
+    "questionText": "Was kennzeichnete den NS-Staat? Eine Politik …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "59"
+  },
+  {
+    "id": "general-162",
+    "number": "162",
+    "sourceNumber": "Teil I - Aufgabe 162",
+    "questionText": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "59"
+  },
+  {
+    "id": "general-163",
+    "number": "163",
+    "sourceNumber": "Teil I - Aufgabe 163",
+    "questionText": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "59"
+  },
+  {
+    "id": "general-164",
+    "number": "164",
+    "sourceNumber": "Teil I - Aufgabe 164",
+    "questionText": "Was passierte am 9. November 1938 in Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "60"
+  },
+  {
+    "id": "general-166",
+    "number": "166",
+    "sourceNumber": "Teil I - Aufgabe 166",
+    "questionText": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "60"
+  },
+  {
+    "id": "general-167",
+    "number": "167",
+    "sourceNumber": "Teil I - Aufgabe 167",
+    "questionText": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "61"
+  },
+  {
+    "id": "general-168",
+    "number": "168",
+    "sourceNumber": "Teil I - Aufgabe 168",
+    "questionText": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "61"
+  },
+  {
+    "id": "general-170",
+    "number": "170",
+    "sourceNumber": "Teil I - Aufgabe 170",
+    "questionText": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "62"
+  },
+  {
+    "id": "general-171",
+    "number": "171",
+    "sourceNumber": "Teil I - Aufgabe 171",
+    "questionText": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "62"
+  },
+  {
+    "id": "general-172",
+    "number": "172",
+    "sourceNumber": "Teil I - Aufgabe 172",
+    "questionText": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "62"
+  },
+  {
+    "id": "general-173",
+    "number": "173",
+    "sourceNumber": "Teil I - Aufgabe 173",
+    "questionText": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "63"
+  },
+  {
+    "id": "general-174",
+    "number": "174",
+    "sourceNumber": "Teil I - Aufgabe 174",
+    "questionText": "Wann wurde die DDR gegründet?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "63"
+  },
+  {
+    "id": "general-175",
+    "number": "175",
+    "sourceNumber": "Teil I - Aufgabe 175",
+    "questionText": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "63"
+  },
+  {
+    "id": "general-176",
+    "number": "176",
+    "sourceNumber": "Teil I - Aufgabe 176",
+    "questionText": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "64"
+  },
+  {
+    "id": "general-177",
+    "number": "177",
+    "sourceNumber": "Teil I - Aufgabe 177",
+    "questionText": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "65"
+  },
+  {
+    "id": "general-178",
+    "number": "178",
+    "sourceNumber": "Teil I - Aufgabe 178",
+    "questionText": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "65"
+  },
+  {
+    "id": "general-179",
+    "number": "179",
+    "sourceNumber": "Teil I - Aufgabe 179",
+    "questionText": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "65"
+  },
+  {
+    "id": "general-180",
+    "number": "180",
+    "sourceNumber": "Teil I - Aufgabe 180",
+    "questionText": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "66"
+  },
+  {
+    "id": "general-181",
+    "number": "181",
+    "sourceNumber": "Teil I - Aufgabe 181",
+    "questionText": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken? © Bundesregierung/Engelbert Reineke",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "67"
+  },
+  {
+    "id": "general-183",
+    "number": "183",
+    "sourceNumber": "Teil I - Aufgabe 183",
+    "questionText": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "68"
+  },
+  {
+    "id": "general-185",
+    "number": "185",
+    "sourceNumber": "Teil I - Aufgabe 185",
+    "questionText": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "69"
+  },
+  {
+    "id": "general-186",
+    "number": "186",
+    "sourceNumber": "Teil I - Aufgabe 186",
+    "questionText": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "69"
+  },
+  {
+    "id": "general-187",
+    "number": "187",
+    "sourceNumber": "Teil I - Aufgabe 187",
+    "questionText": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "70"
+  },
+  {
+    "id": "general-188",
+    "number": "188",
+    "sourceNumber": "Teil I - Aufgabe 188",
+    "questionText": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "70"
+  },
+  {
+    "id": "general-189",
+    "number": "189",
+    "sourceNumber": "Teil I - Aufgabe 189",
+    "questionText": "Wann baute die DDR die Mauer in Berlin?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "71"
+  },
+  {
+    "id": "general-190",
+    "number": "190",
+    "sourceNumber": "Teil I - Aufgabe 190",
+    "questionText": "Was bedeutet die Abkürzung DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "71"
+  },
+  {
+    "id": "general-191",
+    "number": "191",
+    "sourceNumber": "Teil I - Aufgabe 191",
+    "questionText": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "71"
+  },
+  {
+    "id": "general-192",
+    "number": "192",
+    "sourceNumber": "Teil I - Aufgabe 192",
+    "questionText": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "72"
+  },
+  {
+    "id": "general-193",
+    "number": "193",
+    "sourceNumber": "Teil I - Aufgabe 193",
+    "questionText": "Von 1961 bis 1989 war Berlin …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "72"
+  },
+  {
+    "id": "general-194",
+    "number": "194",
+    "sourceNumber": "Teil I - Aufgabe 194",
+    "questionText": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "72"
+  },
+  {
+    "id": "general-195",
+    "number": "195",
+    "sourceNumber": "Teil I - Aufgabe 195",
+    "questionText": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "73"
+  },
+  {
+    "id": "general-196",
+    "number": "196",
+    "sourceNumber": "Teil I - Aufgabe 196",
+    "questionText": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "73"
+  },
+  {
+    "id": "general-197",
+    "number": "197",
+    "sourceNumber": "Teil I - Aufgabe 197",
+    "questionText": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "73"
+  },
+  {
+    "id": "general-198",
+    "number": "198",
+    "sourceNumber": "Teil I - Aufgabe 198",
+    "questionText": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "74"
+  },
+  {
+    "id": "general-199",
+    "number": "199",
+    "sourceNumber": "Teil I - Aufgabe 199",
+    "questionText": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "74"
+  },
+  {
+    "id": "general-200",
+    "number": "200",
+    "sourceNumber": "Teil I - Aufgabe 200",
+    "questionText": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Nationalsozialismus, Krieg und Nachkriegszeit",
+    "state": "",
+    "sourcePage": "74"
+  },
+  {
+    "id": "general-201",
+    "number": "201",
+    "sourceNumber": "Teil I - Aufgabe 201",
+    "questionText": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "75"
+  },
+  {
+    "id": "general-202",
+    "number": "202",
+    "sourceNumber": "Teil I - Aufgabe 202",
+    "questionText": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "75"
+  },
+  {
+    "id": "general-203",
+    "number": "203",
+    "sourceNumber": "Teil I - Aufgabe 203",
+    "questionText": "Wie hieß das Wirtschaftssystem der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "75"
+  },
+  {
+    "id": "general-204",
+    "number": "204",
+    "sourceNumber": "Teil I - Aufgabe 204",
+    "questionText": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "76"
+  },
+  {
+    "id": "general-205",
+    "number": "205",
+    "sourceNumber": "Teil I - Aufgabe 205",
+    "questionText": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "76"
+  },
+  {
+    "id": "general-207",
+    "number": "207",
+    "sourceNumber": "Teil I - Aufgabe 207",
+    "questionText": "In welchem Militärbündnis war die DDR Mitglied?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "77"
+  },
+  {
+    "id": "general-208",
+    "number": "208",
+    "sourceNumber": "Teil I - Aufgabe 208",
+    "questionText": "Was war die \"Stasi\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "77"
+  },
+  {
+    "id": "general-209",
+    "number": "209",
+    "sourceNumber": "Teil I - Aufgabe 209",
+    "questionText": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "78"
+  },
+  {
+    "id": "general-210",
+    "number": "210",
+    "sourceNumber": "Teil I - Aufgabe 210",
+    "questionText": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "78"
+  },
+  {
+    "id": "general-211",
+    "number": "211",
+    "sourceNumber": "Teil I - Aufgabe 211",
+    "questionText": "Welcher Politiker steht für die \"Ostverträge\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "79"
+  },
+  {
+    "id": "general-212",
+    "number": "212",
+    "sourceNumber": "Teil I - Aufgabe 212",
+    "questionText": "Wie heißt Deutschland mit vollem Namen?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "79"
+  },
+  {
+    "id": "general-213",
+    "number": "213",
+    "sourceNumber": "Teil I - Aufgabe 213",
+    "questionText": "Wie viele Einwohner hat Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "79"
+  },
+  {
+    "id": "general-215",
+    "number": "215",
+    "sourceNumber": "Teil I - Aufgabe 215",
+    "questionText": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "80"
+  },
+  {
+    "id": "general-216",
+    "number": "216",
+    "sourceNumber": "Teil I - Aufgabe 216",
+    "questionText": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen? © Deutscher Bundestag/Janine Schmitz",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "81"
+  },
+  {
+    "id": "general-217",
+    "number": "217",
+    "sourceNumber": "Teil I - Aufgabe 217",
+    "questionText": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "81"
+  },
+  {
+    "id": "general-218",
+    "number": "218",
+    "sourceNumber": "Teil I - Aufgabe 218",
+    "questionText": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "82"
+  },
+  {
+    "id": "general-219",
+    "number": "219",
+    "sourceNumber": "Teil I - Aufgabe 219",
+    "questionText": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "82"
+  },
+  {
+    "id": "general-220",
+    "number": "220",
+    "sourceNumber": "Teil I - Aufgabe 220",
+    "questionText": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "82"
+  },
+  {
+    "id": "general-221",
+    "number": "221",
+    "sourceNumber": "Teil I - Aufgabe 221",
+    "questionText": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "83"
+  },
+  {
+    "id": "general-222",
+    "number": "222",
+    "sourceNumber": "Teil I - Aufgabe 222",
+    "questionText": "Welches Land ist ein Nachbarland von Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "83"
+  },
+  {
+    "id": "general-224",
+    "number": "224",
+    "sourceNumber": "Teil I - Aufgabe 224",
+    "questionText": "Was bedeutet die Abkürzung EU?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "84"
+  },
+  {
+    "id": "general-225",
+    "number": "225",
+    "sourceNumber": "Teil I - Aufgabe 225",
+    "questionText": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "84"
+  },
+  {
+    "id": "general-226",
+    "number": "226",
+    "sourceNumber": "Teil I - Aufgabe 226",
+    "questionText": "Welche ist die Flagge der Europäischen Union?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "85"
+  },
+  {
+    "id": "general-227",
+    "number": "227",
+    "sourceNumber": "Teil I - Aufgabe 227",
+    "questionText": "Welches Land ist ein Nachbarland von Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "85"
+  },
+  {
+    "id": "general-228",
+    "number": "228",
+    "sourceNumber": "Teil I - Aufgabe 228",
+    "questionText": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "85"
+  },
+  {
+    "id": "general-229",
+    "number": "229",
+    "sourceNumber": "Teil I - Aufgabe 229",
+    "questionText": "Welches Land ist ein Nachbarland von Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "86"
+  },
+  {
+    "id": "general-230",
+    "number": "230",
+    "sourceNumber": "Teil I - Aufgabe 230",
+    "questionText": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "86"
+  },
+  {
+    "id": "general-231",
+    "number": "231",
+    "sourceNumber": "Teil I - Aufgabe 231",
+    "questionText": "Was bedeutet der Begriff \"europäische Integration\"?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "86"
+  },
+  {
+    "id": "general-232",
+    "number": "232",
+    "sourceNumber": "Teil I - Aufgabe 232",
+    "questionText": "Wer wird bei der Europawahl gewählt?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "87"
+  },
+  {
+    "id": "general-233",
+    "number": "233",
+    "sourceNumber": "Teil I - Aufgabe 233",
+    "questionText": "Welches Land ist ein Nachbarland von Deutschland?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "87"
+  },
+  {
+    "id": "general-234",
+    "number": "234",
+    "sourceNumber": "Teil I - Aufgabe 234",
+    "questionText": "Wo ist ein Sitz des Europäischen Parlaments?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "87"
+  },
+  {
+    "id": "general-235",
+    "number": "235",
+    "sourceNumber": "Teil I - Aufgabe 235",
+    "questionText": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich? © Bundesregierung/Richard Schulze-Vorberg",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "88"
+  },
+  {
+    "id": "general-236",
+    "number": "236",
+    "sourceNumber": "Teil I - Aufgabe 236",
+    "questionText": "Wie viele Mitgliedstaaten hat die EU heute?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "89"
+  },
+  {
+    "id": "general-237",
+    "number": "237",
+    "sourceNumber": "Teil I - Aufgabe 237",
+    "questionText": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "89"
+  },
+  {
+    "id": "general-238",
+    "number": "238",
+    "sourceNumber": "Teil I - Aufgabe 238",
+    "questionText": "An welchen Orten arbeitet das Europäische Parlament?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "89"
+  },
+  {
+    "id": "general-239",
+    "number": "239",
+    "sourceNumber": "Teil I - Aufgabe 239",
+    "questionText": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "90"
+  },
+  {
+    "id": "general-240",
+    "number": "240",
+    "sourceNumber": "Teil I - Aufgabe 240",
+    "questionText": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "90"
+  },
+  {
+    "id": "general-241",
+    "number": "241",
+    "sourceNumber": "Teil I - Aufgabe 241",
+    "questionText": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "90"
+  },
+  {
+    "id": "general-242",
+    "number": "242",
+    "sourceNumber": "Teil I - Aufgabe 242",
+    "questionText": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "91"
+  },
+  {
+    "id": "general-243",
+    "number": "243",
+    "sourceNumber": "Teil I - Aufgabe 243",
+    "questionText": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "91"
+  },
+  {
+    "id": "general-244",
+    "number": "244",
+    "sourceNumber": "Teil I - Aufgabe 244",
+    "questionText": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "91"
+  },
+  {
+    "id": "general-245",
+    "number": "245",
+    "sourceNumber": "Teil I - Aufgabe 245",
+    "questionText": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "92"
+  },
+  {
+    "id": "general-247",
+    "number": "247",
+    "sourceNumber": "Teil I - Aufgabe 247",
+    "questionText": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "92"
+  },
+  {
+    "id": "general-248",
+    "number": "248",
+    "sourceNumber": "Teil I - Aufgabe 248",
+    "questionText": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "93"
+  },
+  {
+    "id": "general-249",
+    "number": "249",
+    "sourceNumber": "Teil I - Aufgabe 249",
+    "questionText": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "93"
+  },
+  {
+    "id": "general-250",
+    "number": "250",
+    "sourceNumber": "Teil I - Aufgabe 250",
+    "questionText": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+    "category": "Geschichte und Verantwortung",
+    "subcategory": "Deutsche Teilung, Einheit und Geografie",
+    "state": "",
+    "sourcePage": "93"
+  },
+  {
+    "id": "general-251",
+    "number": "251",
+    "sourceNumber": "Teil I - Aufgabe 251",
+    "questionText": "Wenn man in Deutschland ein Kind schlägt, …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "94"
+  },
+  {
+    "id": "general-252",
+    "number": "252",
+    "sourceNumber": "Teil I - Aufgabe 252",
+    "questionText": "In Deutschland …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "94"
+  },
+  {
+    "id": "general-253",
+    "number": "253",
+    "sourceNumber": "Teil I - Aufgabe 253",
+    "questionText": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "94"
+  },
+  {
+    "id": "general-254",
+    "number": "254",
+    "sourceNumber": "Teil I - Aufgabe 254",
+    "questionText": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "95"
+  },
+  {
+    "id": "general-255",
+    "number": "255",
+    "sourceNumber": "Teil I - Aufgabe 255",
+    "questionText": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "95"
+  },
+  {
+    "id": "general-256",
+    "number": "256",
+    "sourceNumber": "Teil I - Aufgabe 256",
+    "questionText": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "95"
+  },
+  {
+    "id": "general-257",
+    "number": "257",
+    "sourceNumber": "Teil I - Aufgabe 257",
+    "questionText": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "96"
+  },
+  {
+    "id": "general-258",
+    "number": "258",
+    "sourceNumber": "Teil I - Aufgabe 258",
+    "questionText": "Was darf das Jugendamt in Deutschland?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "96"
+  },
+  {
+    "id": "general-259",
+    "number": "259",
+    "sourceNumber": "Teil I - Aufgabe 259",
+    "questionText": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "96"
+  },
+  {
+    "id": "general-260",
+    "number": "260",
+    "sourceNumber": "Teil I - Aufgabe 260",
+    "questionText": "In Deutschland hat ein Kind in der Schule …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "97"
+  },
+  {
+    "id": "general-261",
+    "number": "261",
+    "sourceNumber": "Teil I - Aufgabe 261",
+    "questionText": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "97"
+  },
+  {
+    "id": "general-262",
+    "number": "262",
+    "sourceNumber": "Teil I - Aufgabe 262",
+    "questionText": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "97"
+  },
+  {
+    "id": "general-263",
+    "number": "263",
+    "sourceNumber": "Teil I - Aufgabe 263",
+    "questionText": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "98"
+  },
+  {
+    "id": "general-264",
+    "number": "264",
+    "sourceNumber": "Teil I - Aufgabe 264",
+    "questionText": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "98"
+  },
+  {
+    "id": "general-265",
+    "number": "265",
+    "sourceNumber": "Teil I - Aufgabe 265",
+    "questionText": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "98"
+  },
+  {
+    "id": "general-266",
+    "number": "266",
+    "sourceNumber": "Teil I - Aufgabe 266",
+    "questionText": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "99"
+  },
+  {
+    "id": "general-267",
+    "number": "267",
+    "sourceNumber": "Teil I - Aufgabe 267",
+    "questionText": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "99"
+  },
+  {
+    "id": "general-268",
+    "number": "268",
+    "sourceNumber": "Teil I - Aufgabe 268",
+    "questionText": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "99"
+  },
+  {
+    "id": "general-269",
+    "number": "269",
+    "sourceNumber": "Teil I - Aufgabe 269",
+    "questionText": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "100"
+  },
+  {
+    "id": "general-270",
+    "number": "270",
+    "sourceNumber": "Teil I - Aufgabe 270",
+    "questionText": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "100"
+  },
+  {
+    "id": "general-271",
+    "number": "271",
+    "sourceNumber": "Teil I - Aufgabe 271",
+    "questionText": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "100"
+  },
+  {
+    "id": "general-272",
+    "number": "272",
+    "sourceNumber": "Teil I - Aufgabe 272",
+    "questionText": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "101"
+  },
+  {
+    "id": "general-273",
+    "number": "273",
+    "sourceNumber": "Teil I - Aufgabe 273",
+    "questionText": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "101"
+  },
+  {
+    "id": "general-274",
+    "number": "274",
+    "sourceNumber": "Teil I - Aufgabe 274",
+    "questionText": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "101"
+  },
+  {
+    "id": "general-275",
+    "number": "275",
+    "sourceNumber": "Teil I - Aufgabe 275",
+    "questionText": "Was braucht man in Deutschland für eine Ehescheidung?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "102"
+  },
+  {
+    "id": "general-276",
+    "number": "276",
+    "sourceNumber": "Teil I - Aufgabe 276",
+    "questionText": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "102"
+  },
+  {
+    "id": "general-282",
+    "number": "282",
+    "sourceNumber": "Teil I - Aufgabe 282",
+    "questionText": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "104"
+  },
+  {
+    "id": "general-286",
+    "number": "286",
+    "sourceNumber": "Teil I - Aufgabe 286",
+    "questionText": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "105"
+  },
+  {
+    "id": "general-291",
+    "number": "291",
+    "sourceNumber": "Teil I - Aufgabe 291",
+    "questionText": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "108"
+  },
+  {
+    "id": "general-292",
+    "number": "292",
+    "sourceNumber": "Teil I - Aufgabe 292",
+    "questionText": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "108"
+  },
+  {
+    "id": "general-293",
+    "number": "293",
+    "sourceNumber": "Teil I - Aufgabe 293",
+    "questionText": "Was ist in Deutschland ein Brauch zu Ostern?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "109"
+  },
+  {
+    "id": "general-294",
+    "number": "294",
+    "sourceNumber": "Teil I - Aufgabe 294",
+    "questionText": "Pfingsten ist ein …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "109"
+  },
+  {
+    "id": "general-295",
+    "number": "295",
+    "sourceNumber": "Teil I - Aufgabe 295",
+    "questionText": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "109"
+  },
+  {
+    "id": "general-296",
+    "number": "296",
+    "sourceNumber": "Teil I - Aufgabe 296",
+    "questionText": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "110"
+  },
+  {
+    "id": "general-297",
+    "number": "297",
+    "sourceNumber": "Teil I - Aufgabe 297",
+    "questionText": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "110"
+  },
+  {
+    "id": "general-298",
+    "number": "298",
+    "sourceNumber": "Teil I - Aufgabe 298",
+    "questionText": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "110"
+  },
+  {
+    "id": "general-299",
+    "number": "299",
+    "sourceNumber": "Teil I - Aufgabe 299",
+    "questionText": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "111"
+  },
+  {
+    "id": "general-300",
+    "number": "300",
+    "sourceNumber": "Teil I - Aufgabe 300",
+    "questionText": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+    "category": "Mensch und Gesellschaft",
+    "subcategory": "Gesellschaft, Kultur, Religion und Alltag",
+    "state": "",
+    "sourcePage": "111"
+  },
+  {
+    "id": "baden-wuerttemberg-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "112"
+  },
+  {
+    "id": "baden-wuerttemberg-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Baden-Württemberg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "112"
+  },
+  {
+    "id": "baden-wuerttemberg-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "113"
+  },
+  {
+    "id": "baden-wuerttemberg-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "113"
+  },
+  {
+    "id": "baden-wuerttemberg-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "113"
+  },
+  {
+    "id": "baden-wuerttemberg-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "114"
+  },
+  {
+    "id": "baden-wuerttemberg-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Baden-Württemberg heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "114"
+  },
+  {
+    "id": "baden-wuerttemberg-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Baden-Württemberg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "115"
+  },
+  {
+    "id": "baden-wuerttemberg-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "116"
+  },
+  {
+    "id": "baden-wuerttemberg-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Baden-Württemberg - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Baden-Württemberg",
+    "state": "Baden-Württemberg",
+    "sourcePage": "116"
+  },
+  {
+    "id": "bayern-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Freistaat Bayern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "117"
+  },
+  {
+    "id": "bayern-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Bayern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "117"
+  },
+  {
+    "id": "bayern-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "118"
+  },
+  {
+    "id": "bayern-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "118"
+  },
+  {
+    "id": "bayern-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Bayern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "118"
+  },
+  {
+    "id": "bayern-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Bayern über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "119"
+  },
+  {
+    "id": "bayern-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Bayern heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "119"
+  },
+  {
+    "id": "bayern-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Bayern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "120"
+  },
+  {
+    "id": "bayern-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Bayern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "121"
+  },
+  {
+    "id": "bayern-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Bayern - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Bayern nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bayern",
+    "state": "Bayern",
+    "sourcePage": "121"
+  },
+  {
+    "id": "berlin-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Berlin?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "122"
+  },
+  {
+    "id": "berlin-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 2",
+    "questionText": "Welches ist ein Bezirk von Berlin?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "122"
+  },
+  {
+    "id": "berlin-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird das Landesparlament in Berlin gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "123"
+  },
+  {
+    "id": "berlin-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "123"
+  },
+  {
+    "id": "berlin-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Berlin?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "123"
+  },
+  {
+    "id": "berlin-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Berlin über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "124"
+  },
+  {
+    "id": "berlin-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 7",
+    "questionText": "Welches Bundesland ist ein Stadtstaat?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "124"
+  },
+  {
+    "id": "berlin-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Berlin?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "125"
+  },
+  {
+    "id": "berlin-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "126"
+  },
+  {
+    "id": "berlin-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Berlin - Aufgabe 10",
+    "questionText": "Welche Senatorin/welchen Senator hat Berlin nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Berlin",
+    "state": "Berlin",
+    "sourcePage": "126"
+  },
+  {
+    "id": "brandenburg-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Brandenburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "127"
+  },
+  {
+    "id": "brandenburg-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Brandenburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "127"
+  },
+  {
+    "id": "brandenburg-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Brandenburg gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "128"
+  },
+  {
+    "id": "brandenburg-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "128"
+  },
+  {
+    "id": "brandenburg-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Brandenburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "128"
+  },
+  {
+    "id": "brandenburg-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Brandenburg über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "129"
+  },
+  {
+    "id": "brandenburg-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Brandenburg heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "129"
+  },
+  {
+    "id": "brandenburg-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Brandenburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "130"
+  },
+  {
+    "id": "brandenburg-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Brandenburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "131"
+  },
+  {
+    "id": "brandenburg-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Brandenburg - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Brandenburg nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Brandenburg",
+    "state": "Brandenburg",
+    "sourcePage": "131"
+  },
+  {
+    "id": "bremen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zur Freien Hansestadt Bremen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "132"
+  },
+  {
+    "id": "bremen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 2",
+    "questionText": "Welches ist ein Stadtteil von Bremen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "132"
+  },
+  {
+    "id": "bremen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird das Landesparlament in Bremen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "133"
+  },
+  {
+    "id": "bremen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "133"
+  },
+  {
+    "id": "bremen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Bremen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "133"
+  },
+  {
+    "id": "bremen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Bremen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "134"
+  },
+  {
+    "id": "bremen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 7",
+    "questionText": "Was ist ein deutscher Stadtstaat?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "134"
+  },
+  {
+    "id": "bremen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Bremen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "135"
+  },
+  {
+    "id": "bremen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "136"
+  },
+  {
+    "id": "bremen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Bremen - Aufgabe 10",
+    "questionText": "Welche Senatorin/welchen Senator hat Bremen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Bremen",
+    "state": "Bremen",
+    "sourcePage": "136"
+  },
+  {
+    "id": "hamburg-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zur Freien und Hansestadt Hamburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "137"
+  },
+  {
+    "id": "hamburg-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 2",
+    "questionText": "Welches ist ein Bezirk von Hamburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "137"
+  },
+  {
+    "id": "hamburg-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "138"
+  },
+  {
+    "id": "hamburg-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "138"
+  },
+  {
+    "id": "hamburg-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Hamburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "138"
+  },
+  {
+    "id": "hamburg-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Hamburg über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "139"
+  },
+  {
+    "id": "hamburg-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 7",
+    "questionText": "Welches Bundesland ist ein Stadtstaat?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "139"
+  },
+  {
+    "id": "hamburg-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Hamburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "140"
+  },
+  {
+    "id": "hamburg-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "141"
+  },
+  {
+    "id": "hamburg-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Hamburg - Aufgabe 10",
+    "questionText": "Welche Senatorin/welchen Senator hat Hamburg nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hamburg",
+    "state": "Hamburg",
+    "sourcePage": "141"
+  },
+  {
+    "id": "hessen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Hessen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "142"
+  },
+  {
+    "id": "hessen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Hessen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "142"
+  },
+  {
+    "id": "hessen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "143"
+  },
+  {
+    "id": "hessen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "143"
+  },
+  {
+    "id": "hessen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Hessen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "143"
+  },
+  {
+    "id": "hessen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Hessen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "144"
+  },
+  {
+    "id": "hessen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Hessen heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "144"
+  },
+  {
+    "id": "hessen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Hessen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "145"
+  },
+  {
+    "id": "hessen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Hessen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "146"
+  },
+  {
+    "id": "hessen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Hessen - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Hessen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Hessen",
+    "state": "Hessen",
+    "sourcePage": "146"
+  },
+  {
+    "id": "mecklenburg-vorpommern-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "147"
+  },
+  {
+    "id": "mecklenburg-vorpommern-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Mecklenburg-Vorpommern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "147"
+  },
+  {
+    "id": "mecklenburg-vorpommern-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "148"
+  },
+  {
+    "id": "mecklenburg-vorpommern-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "148"
+  },
+  {
+    "id": "mecklenburg-vorpommern-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "148"
+  },
+  {
+    "id": "mecklenburg-vorpommern-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "149"
+  },
+  {
+    "id": "mecklenburg-vorpommern-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "149"
+  },
+  {
+    "id": "mecklenburg-vorpommern-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Mecklenburg-Vorpommern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "150"
+  },
+  {
+    "id": "mecklenburg-vorpommern-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "151"
+  },
+  {
+    "id": "mecklenburg-vorpommern-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Mecklenburg-Vorpommern - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Mecklenburg-Vorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "sourcePage": "151"
+  },
+  {
+    "id": "niedersachsen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Niedersachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "152"
+  },
+  {
+    "id": "niedersachsen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Niedersachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "152"
+  },
+  {
+    "id": "niedersachsen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "153"
+  },
+  {
+    "id": "niedersachsen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "153"
+  },
+  {
+    "id": "niedersachsen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Niedersachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "153"
+  },
+  {
+    "id": "niedersachsen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Niedersachsen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "154"
+  },
+  {
+    "id": "niedersachsen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Niedersachsen heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "154"
+  },
+  {
+    "id": "niedersachsen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Niedersachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "155"
+  },
+  {
+    "id": "niedersachsen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "156"
+  },
+  {
+    "id": "niedersachsen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Niedersachsen - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Niedersachsen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Niedersachsen",
+    "state": "Niedersachsen",
+    "sourcePage": "156"
+  },
+  {
+    "id": "nordrhein-westfalen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "157"
+  },
+  {
+    "id": "nordrhein-westfalen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Nordrhein-Westfalen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "157"
+  },
+  {
+    "id": "nordrhein-westfalen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "158"
+  },
+  {
+    "id": "nordrhein-westfalen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "158"
+  },
+  {
+    "id": "nordrhein-westfalen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Nordrhein-Westfalen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "158"
+  },
+  {
+    "id": "nordrhein-westfalen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "159"
+  },
+  {
+    "id": "nordrhein-westfalen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Nordrhein-Westfalen heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "159"
+  },
+  {
+    "id": "nordrhein-westfalen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Nordrhein-Westfalen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "160"
+  },
+  {
+    "id": "nordrhein-westfalen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Nordrhein-Westfalen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "161"
+  },
+  {
+    "id": "nordrhein-westfalen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Nordrhein-Westfalen - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Nordrhein-Westfalen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Nordrhein-Westfalen",
+    "state": "Nordrhein-Westfalen",
+    "sourcePage": "161"
+  },
+  {
+    "id": "rheinland-pfalz-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Rheinland-Pfalz?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "162"
+  },
+  {
+    "id": "rheinland-pfalz-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Rheinland-Pfalz?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "162"
+  },
+  {
+    "id": "rheinland-pfalz-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "163"
+  },
+  {
+    "id": "rheinland-pfalz-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "163"
+  },
+  {
+    "id": "rheinland-pfalz-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Rheinland-Pfalz?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "163"
+  },
+  {
+    "id": "rheinland-pfalz-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "164"
+  },
+  {
+    "id": "rheinland-pfalz-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Rheinland-Pfalz heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "164"
+  },
+  {
+    "id": "rheinland-pfalz-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Rheinland-Pfalz?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "165"
+  },
+  {
+    "id": "rheinland-pfalz-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Rheinland-Pfalz?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "166"
+  },
+  {
+    "id": "rheinland-pfalz-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Rheinland-Pfalz - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Rheinland-Pfalz nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Rheinland-Pfalz",
+    "state": "Rheinland-Pfalz",
+    "sourcePage": "166"
+  },
+  {
+    "id": "saarland-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Saarland?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "167"
+  },
+  {
+    "id": "saarland-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis im Saarland?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "167"
+  },
+  {
+    "id": "saarland-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag des Saarlandes gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "168"
+  },
+  {
+    "id": "saarland-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "168"
+  },
+  {
+    "id": "saarland-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge des Saarlandes?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "168"
+  },
+  {
+    "id": "saarland-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 6",
+    "questionText": "Wo können Sie sich im Saarland über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "169"
+  },
+  {
+    "id": "saarland-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt des Saarlandes heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "169"
+  },
+  {
+    "id": "saarland-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 8",
+    "questionText": "Welches Bundesland ist das Saarland?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "170"
+  },
+  {
+    "id": "saarland-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "171"
+  },
+  {
+    "id": "saarland-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Saarland - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat das Saarland nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Saarland",
+    "state": "Saarland",
+    "sourcePage": "171"
+  },
+  {
+    "id": "sachsen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Freistaat Sachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "172"
+  },
+  {
+    "id": "sachsen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Sachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "172"
+  },
+  {
+    "id": "sachsen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Sachsen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "173"
+  },
+  {
+    "id": "sachsen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "173"
+  },
+  {
+    "id": "sachsen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Sachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "173"
+  },
+  {
+    "id": "sachsen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Sachsen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "174"
+  },
+  {
+    "id": "sachsen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Sachsen heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "174"
+  },
+  {
+    "id": "sachsen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Sachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "175"
+  },
+  {
+    "id": "sachsen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Sachsen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "176"
+  },
+  {
+    "id": "sachsen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Sachsen - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Sachsen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen",
+    "state": "Sachsen",
+    "sourcePage": "176"
+  },
+  {
+    "id": "sachsen-anhalt-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Sachsen-Anhalt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "177"
+  },
+  {
+    "id": "sachsen-anhalt-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Sachsen-Anhalt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "177"
+  },
+  {
+    "id": "sachsen-anhalt-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "178"
+  },
+  {
+    "id": "sachsen-anhalt-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "178"
+  },
+  {
+    "id": "sachsen-anhalt-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Sachsen-Anhalt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "178"
+  },
+  {
+    "id": "sachsen-anhalt-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "179"
+  },
+  {
+    "id": "sachsen-anhalt-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Sachsen-Anhalt heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "179"
+  },
+  {
+    "id": "sachsen-anhalt-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Sachsen-Anhalt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "180"
+  },
+  {
+    "id": "sachsen-anhalt-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Sachsen-Anhalt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "181"
+  },
+  {
+    "id": "sachsen-anhalt-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Sachsen-Anhalt - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Sachsen-Anhalt nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Sachsen-Anhalt",
+    "state": "Sachsen-Anhalt",
+    "sourcePage": "181"
+  },
+  {
+    "id": "schleswig-holstein-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Bundesland Schleswig-Holstein?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "182"
+  },
+  {
+    "id": "schleswig-holstein-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Schleswig-Holstein?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "182"
+  },
+  {
+    "id": "schleswig-holstein-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "183"
+  },
+  {
+    "id": "schleswig-holstein-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "183"
+  },
+  {
+    "id": "schleswig-holstein-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Schleswig-Holstein?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "183"
+  },
+  {
+    "id": "schleswig-holstein-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "184"
+  },
+  {
+    "id": "schleswig-holstein-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Schleswig-Holstein heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "184"
+  },
+  {
+    "id": "schleswig-holstein-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Schleswig-Holstein?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "185"
+  },
+  {
+    "id": "schleswig-holstein-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Schleswig-Holstein?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "186"
+  },
+  {
+    "id": "schleswig-holstein-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Schleswig-Holstein - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Schleswig-Holstein nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Schleswig-Holstein",
+    "state": "Schleswig-Holstein",
+    "sourcePage": "186"
+  },
+  {
+    "id": "thueringen-001",
+    "number": "1",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 1",
+    "questionText": "Welches Wappen gehört zum Freistaat Thüringen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "187"
+  },
+  {
+    "id": "thueringen-002",
+    "number": "2",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 2",
+    "questionText": "Welches ist ein Landkreis in Thüringen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "187"
+  },
+  {
+    "id": "thueringen-003",
+    "number": "3",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 3",
+    "questionText": "Für wie viele Jahre wird der Landtag in Thüringen gewählt?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "188"
+  },
+  {
+    "id": "thueringen-004",
+    "number": "4",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 4",
+    "questionText": "Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "188"
+  },
+  {
+    "id": "thueringen-005",
+    "number": "5",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 5",
+    "questionText": "Welche Farben hat die Landesflagge von Thüringen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "188"
+  },
+  {
+    "id": "thueringen-006",
+    "number": "6",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 6",
+    "questionText": "Wo können Sie sich in Thüringen über politische Themen informieren?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "189"
+  },
+  {
+    "id": "thueringen-007",
+    "number": "7",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 7",
+    "questionText": "Die Landeshauptstadt von Thüringen heißt …",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "189"
+  },
+  {
+    "id": "thueringen-008",
+    "number": "8",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 8",
+    "questionText": "Welches Bundesland ist Thüringen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "190"
+  },
+  {
+    "id": "thueringen-009",
+    "number": "9",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 9",
+    "questionText": "Wie nennt man die Regierungschefin/den Regierungschef in Thüringen?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "191"
+  },
+  {
+    "id": "thueringen-010",
+    "number": "10",
+    "sourceNumber": "Teil II - Thüringen - Aufgabe 10",
+    "questionText": "Welche Ministerin/welchen Minister hat Thüringen nicht?",
+    "category": "Bundeslandfragen",
+    "subcategory": "Bundesland Thüringen",
+    "state": "Thüringen",
+    "sourcePage": "191"
+  }
+]
